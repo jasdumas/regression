@@ -1,0 +1,96 @@
+---
+title: "Beer!"
+author: "Jasmine Dumas"
+date: "December 12, 2015"
+output: word_document
+---
+1. **Data source**:
+```{r}
+beer = read.table("http://www.craftbeeranalytics.com/uploads/3/3/8/9/3389428/ratebeer_beerjobber.txt", header=TRUE, sep="")
+save(beer, file="beer.RData")
+head(beer)
+colnames(beer) # we'd be predicting column score.overall using abv, ratings, & score.by.style
+```
+
+2. **Data Clean**:
+```{r}
+beer <- na.omit(beer) 
+```
+
+3. **Research Question**: What contributes to beer rating scores overall, abv, style, brewer?   
+4. **Dependent Variable**: score.overall   
+5. **Independent Variable**: score.by.style, name, brewer, style, abv, ratings    
+6. **Quantitative vs. Qualitative**: The quantitative variables are score.overall, abv, ratings,score.by.style. The qualitative variable is name and brewer.  
+7. **Correlation and Scatter plots**: We can try a linear model initially.
+```{r}
+# no multicollinearity between continuous variables - want to be low!
+cor(beer$abv, beer$ratings)
+cor(beer$abv, beer$score.by.style)
+cor(beer$ratings, beer$score.by.style)
+
+# want correlation between response and covariates - want to be high!
+cor(beer$score.overall, beer$abv)
+cor(beer$score.overall, beer$ratings)
+cor(beer$score.overall, beer$score.by.style)
+
+# what do these variables all look like against the response y variable
+library(ggplot2)
+a=ggplot(beer, aes(y = score.overall, x = abv)) + geom_point() # log?
+b=ggplot(beer, aes(y = score.overall, x = ratings)) + geom_point() # log?
+c=ggplot(beer, aes(y = score.overall, x = score.by.style)) + geom_point() # weird-linear?
+# these graphs look weird maybe try inverse or logrithm scale and re-graph?
+source('~/Desktop/depaul/CSC423/multiplot.R', echo=TRUE)
+multiplot(a, b, c, cols=3)
+```
+
+8. **Building the model(s)**: The initial model has a high F-Statistic, significant p-value, and High R-squared/adj R-squared value which could be improved upon my removing the variable of brewer, which has many not significant p-values. 
+
+After running the second model each of the co-variates deems to be significant (<0.05) except the abv value, the R-squared and Adjusted R-squared are lower than before but are still high (_at 95%, and 94% respectively which means that `beer.model1` can account for 95%, and 94% of the error present in the data)_, and the F-Statistic is High along with the significant p-value.       
+
+The next 2 models seeks to fit the parsimonious attempts of simplifying the model while producing the aforementioned high F-Statistic, significant p-value, and High R-squared/adj R-squared values.
+
+The automated step-wise regression algorithms verifies that the Lowest AIC score is achieved with the two co-variates of `score.by.style + style`
+
+```{r}
+# full model
+beer.model = lm(score.overall ~ abv + ratings + score.by.style + brewer + style, data=beer) 
+summary(beer.model) # High F-statistic, High R-squared/adj R-squared value
+
+# remove brewer
+beer.model1 = lm(score.overall ~ abv + ratings + score.by.style + style, data=beer) 
+summary(beer.model1) # High F-statistic, High R-squared/adj R-squared value
+
+# remove abv
+beer.model2 = lm(score.overall ~ ratings + score.by.style + style, data=beer) 
+summary(beer.model2) # better significant results
+
+# remove ratings
+beer.model3 = lm(score.overall ~ score.by.style + style, data=beer) 
+summary(beer.model3) # better significant results
+
+# automated selection algorithm using stepwise regression for the final 
+full.beer = step(beer.model3, direction="both")
+```
+
+9. **Checking of assumptions:** A noticeable sign of slight multi-colinearity can be observed in checking the correlation between `cor(beer$ratings, beer$score.by.style)`
+
+10. **Checking for interaction terms:** Without expansive domain experience in the craft beer industry and with the few amounts of co-variates I would not test or see the rationale behind interaction terms for this model.
+
+11. **Checking for higher order models:** As noticed in the scatter plots, there are some intriguing distributions of the co-variates against the response variable, y. Slight curves could signal a second order model or a different transformation.
+
+12. **Examination of residuals:** The residual plot takes a look at the observed values versus the predicted values from the final model. (Residual = Observed – Predicted; or `e = y - y-hat`). There doesn't seem to be an extreme obvious trend in the dispersion of the plot.
+```{r}
+plot(beer$score.overall, resid(beer.model3), main = "Final Model Residual Plot - beer.model3")
+```
+
+13. **Transformations if appropriate:** Check for distributions of co-variates in histograms/plots.
+```{r}
+hist(beer$abv)
+plot(beer$brewer)
+plot(beer$style)
+hist(beer$ratings)
+hist(beer$score.overall)
+hist(beer$score.by.style)
+```
+
+

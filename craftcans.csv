@@ -1,0 +1,960 @@
+#,BEER,BREWERY,LOCATION,STYLE,SIZE,ABV,IBUs
+1,#9,Magic Hat Brewing Company,"South Burlington, VT",Fruit / Vegetable Beer,12 oz.,5.10%,20
+2,113 IPA,Sly Fox Brewing Company,"Phoenixville, PA",American IPA,12 oz.,7%,113
+3,11th Hour IPA,Crow Peak Brewing Company,"Spearfish, SD",American IPA,12 oz.,6%,N/A
+4,1327 Pod's ESB,Blue Blood Brewing Company,"Lincoln, NE",Extra Special / Strong Bitter (ESB),12 oz.,5.60%,37
+5,1327 Pod's ESB,Blue Blood Brewing Company,"Lincoln, NE",Extra Special / Strong Bitter (ESB),12 oz.,5.60%,37
+6,1327 Pod's ESB,Blue Blood Brewing Company,"Lincoln, NE",Extra Special / Strong Bitter (ESB),12 oz.,5.60%,37
+7,1335 Wicked Snout,Blue Blood Brewing Company,"Lincoln, NE",Saison / Farmhouse Ale,12 oz.,6.40%,N/A
+8,15th Anniversary Abbey Ale (2012),Oskar Blues Brewery,"Longmont, CO",Belgian Dark Ale,16 oz.,9%,N/A
+9,1811 Lager,Fort George Brewery,"Astoria, OR",American Amber / Red Lager,16 oz.,5.10%,N/A
+10,1881 California Red Ale,Ruhstaller Beer Company,"Sacramento, CA",American Amber / Red Ale,16 oz.,5.60%,35
+11,2012 Black Ale,Stevens Point Brewery,"Stevens Point, WI",American Brown Ale,12 oz.,5.40%,32
+12,21st Amendment IPA (2006),21st Amendment Brewery,"San Francisco, CA",American IPA,12 oz.,7%,70
+13,21st Amendment Watermelon Wheat Beer (2006),21st Amendment Brewery,"San Francisco, CA",Fruit / Vegetable Beer,12 oz.,4.90%,17
+14,3 Gear Robust Porter,Tin Man Brewing Company,"Evansville, IN",American Porter,16 oz.,5.20%,50
+15,3 Picket Porter,Crooked Fence Brewing Company,"Garden City, ID",American Porter,12 oz.,5.50%,N/A
+16,312 Urban Wheat Ale,Goose Island Brewing Company,"Chicago, IL",American Pale Wheat Ale,12 oz.,4.20%,20
+17,33 Select Brown Ale,Okoboji Brewing Company,"Spirit Lake, IA",American Brown Ale,16 oz.,6.50%,26
+18,3Beans,Sixpoint Craft Ales,"Brooklyn, NY",Baltic Porter,12 oz.,10%,85
+19,40th Annual Bix Street Fest Copper Ale (Current),Great River Brewery,"Davenport, IA",American Amber / Red Ale,16 oz.,4.80%,25
+20,413 Farmhouse Ale,Big Elm Brewing,"Sheffield, MA",Saison / Farmhouse Ale,12 oz.,6%,N/A
+21,467 Ethan's Stout,Blue Blood Brewing Company,"Lincoln, NE",American Stout,12 oz.,5%,N/A
+22,483 Pale Ale (2010),Great River Brewery,"Davenport, IA",American Pale Ale (APA),16 oz.,5.30%,48
+23,483 Pale Ale,Great River Brewery,"Davenport, IA",American Pale Ale (APA),16 oz.,5.30%,48
+24,543 Skull Creek Fresh Hopped Pale Ale,Blue Blood Brewing Company,"Lincoln, NE",American Pale Ale (APA),12 oz.,4.50%,N/A
+25,5:00 O'Clock Afternoon Ale,Renegade Brewing Company,"Denver, CO",American Blonde Ale,16 oz.,5%,25
+26,668 Neighbor of the Beast (16 oz.) (2010),New England Brewing Company,"Woodbridge, CT",Belgian Pale Ale,16 oz.,9%,N/A
+27,668 Neighbor of the Beast12 oz.,New England Brewing Company,"Woodbridge, CT",Belgian Pale Ale,12 oz.,9%,N/A
+28,8-Bit Pale Ale,Tallgrass Brewing Company,"Manhattan, KS",American Pale Ale (APA),16 oz.,5.20%,N/A
+29,834 Happy As Ale,Blue Blood Brewing Company,"Lincoln, NE",American Pale Ale (APA),12 oz.,4.60%,35
+30,A Little Crazy,Revolution Brewing Company,"Chicago, IL",Belgian Pale Ale,12 oz.,6.80%,N/A
+31,Aaah Bock Lager,Great River Brewery,"Davenport, IA",Vienna Lager,16 oz.,6%,N/A
+32,AARGHtoberfest!,Heavy Seas Beer,"Halethorpe, MD",MÌ_rzen / Oktoberfest,12 oz.,6%,30
+33,Abita Amber,Abita Brewing Company,"Abita Springs, LA",American Amber / Red Lager,12 oz.,4.50%,17
+34,Abominable Ale,Fremont Brewing Company,"Seattle, WA",English Strong Ale,12 oz.,8%,N/A
+35,Abominable Winter Ale,Hopworks Urban Brewery,"Portland, OR",American Strong Ale,16 oz.,7.30%,70
+36,Abrasive Ale,Surly Brewing Company,"Brooklyn Center, MN",American Double / Imperial IPA,16 oz.,9.70%,120
+37,Ace IPA,Wingman Brewers,"Tacoma, WA",American IPA,16 oz.,7.40%,83
+38,Akari Shogun American Wheat Ale,Half Acre Beer Company,"Chicago, IL",American Pale Wheat Ale,16 oz.,5.50%,N/A
+39,Alloy,Tin Man Brewing Company,"Evansville, IN",American IPA,16 oz.,5.80%,36
+40,Aloha B‰Ûªak‰Ûªtun,Maui Brewing Company,"Lahaina, HI",Belgian Strong Dark Ale,12 oz.,???,N/A
+41,Alphadelic IPA,Hop Valley Brewing Company,"Springfield, OR",American IPA,12 oz.,6.50%,90
+42,Alteration,Hops & Grain Brewery,"Austin, TX",Altbier,12 oz.,5.10%,40
+43,Amber Road,Baxter Brewing Company,"Lewiston, ME",American Amber / Red Ale,12 oz.,5.50%,35
+44,Ambitious Lager,Wildwood Brewing Company,"Stevensville, MT",Munich Helles Lager,16 oz.,5%,N/A
+45,American Idiot Ale (2012),SanTan Brewing Company,"Chandler, AZ",American Pale Ale (APA),12 oz.,5.50%,45
+46,American Special Bitter,Uncommon Brewers,"Santa Cruz, CA",American Strong Ale,8 oz.,14.50%,N/A
+47,Annie's Amber Ale,High Noon Saloon And Brewery,"Leavenworth, KS",American Amber / Red Ale,12 oz.,5.50%,N/A
+48,Anti-Hero IPA,Revolution Brewing Company,"Chicago, IL",American IPA,12 oz.,6.50%,70
+49,Apollo,Sixpoint Craft Ales,"Brooklyn, NY",American Pale Wheat Ale,16 oz.,5.20%,11
+50,Apricot Blonde,Dry Dock Brewing Company,"Aurora, CO",Fruit / Vegetable Beer,12 oz.,5.10%,17
+51,Archer's Ale (2004),Sherwood Forest Brewers,"Marlborough, MA",English Pale Ale,12 oz.,5%,N/A
+52,Arizona Pilsner,Lumberyard Brewing Company,"Flagstaff, AZ",American Pilsner,12 oz.,5%,20
+53,Ashland Amber Ale,Caldera Brewing Company,"Ashland, OR",American Amber / Red Ale,12 oz.,5.40%,24
+54,Ashland Amber Ale (2009),Caldera Brewing Company,"Ashland, OR",American Amber / Red Ale,12 oz.,5.40%,24
+55,Atlantic Amber Ale (2007),New England Brewing Company,"Woodbridge, CT",American Amber / Red Ale,12 oz.,5%,N/A
+56,Atlantic Amber Ale (2004),New England Brewing Company,"Woodbridge, CT",American Amber / Red Ale,12 oz.,5%,N/A
+57,Atom Smasher,Two Brothers Brewing Company,"Warrenville, IL",MÌ_rzen / Oktoberfest,12 oz.,7.70%,23
+58,Atwater's Lager,Atwater Brewery,"Detroit, MI",Munich Helles Lager,12 oz.,5%,12
+59,Aurora Lager,Great Crescent Brewery,"Aurora, IN",Dortmunder / Export Lager,16 oz.,5.70%,27
+60,Autumnal MolÌ© Stout,Ska Brewing Company,"Durango, CO",American Stout,12 oz.,???,N/A
+61,Autumnation,Sixpoint Craft Ales,"Brooklyn, NY",Pumpkin Ale,16 oz.,6%,48
+62,Avalanche Ale,Breckenridge Brewery,"Denver, CO",American Amber / Red Ale,12 oz.,5.40%,19
+63,Avery India Pale Ale,Avery Brewing Company,"Boulder, CO",American IPA,12 oz.,6.30%,69
+64,Avery Joe‰Ûªs Premium American Pilsner,Avery Brewing Company,"Boulder, CO",German Pilsener,12 oz.,4.70%,42
+65,Awry Rye Pale Ale,Bonfire Brewing Company,"Eagle, CO",American Pale Ale (APA),12 oz.,5.80%,N/A
+66,AXL Pale Ale,MillKing It Productions,"Royal Oak, MI",American Pale Ale (APA),16 oz.,???,N/A
+67,B3K Black Lager,Wynkoop Brewing Company,"Denver, CO",Schwarzbier,12 oz.,5.50%,N/A
+68,Babbling Blonde,Rivertowne Brewing Company,"Export, PA",American Blonde Ale,12 oz.,5.30%,N/A
+69,Back Country Scottish Ale,Lewis and Clark Brewing Company,"Helena, MT",Scottish Ale,12 oz.,5.70%,N/A
+70,Back East Ale,Back East Brewing Company,"Bloomfield, CT",American Amber / Red Ale,12 oz.,5%,N/A
+71,Back in Black,21st Amendment Brewery,"San Francisco, CA",American Black Ale,12 oz.,6.80%,65
+72,Back in the Saddle Rye Pale Ale,Half Moon Bay Brewing Company,"Half Moon Bay, CA",American Pale Ale (APA),12 oz.,3.70%,N/A
+73,Backyahd,Foolproof Brewing Company,"Pawtucket, RI",American IPA,12 oz.,6%,N/A
+74,Bacon Brown Ale,Uncommon Brewers,"Santa Cruz, CA",American Brown Ale,16 oz.,6.80%,N/A
+75,Ballz Deep Double IPA,7 Seas Brewing Company,"Gig Harbor, WA",American Double / Imperial IPA,16 oz.,8.40%,82
+76,Balt Altbier,Union Craft Brewing,"Baltimore, MD",Altbier,12 oz.,6%,N/A
+77,Baltic Porter,Uncommon Brewers,"Santa Cruz, CA",Baltic Porter,16 oz.,7.80%,N/A
+78,Bark Bite IPA,Big Wood Brewery,"Vadnais Heights, MN",American IPA,16 oz.,7.40%,N/A
+79,Barn Burner Saison,Karbach Brewing Company,"Houston, TX",Saison / Farmhouse Ale,12 oz.,6.60%,20
+80,Barney Flats Oatmeal Stout,Anderson Valley Brewing Company,"Boonville, CA",Oatmeal Stout,12 oz.,5.70%,13
+81,Barstool,Foolproof Brewing Company,"Pawtucket, RI",American Blonde Ale,12 oz.,4.50%,N/A
+82,Beanblossom Blueberry Hard Cider,Beanblossom Hard Ciders (Oliver ...,"Bloomington, IN",Other,250 ml,8%,N/A
+83,Beanblossom Hard Cider,Beanblossom Hard Ciders (Oliver ...,"Bloomington, IN",Cider,250 ml,8%,N/A
+84,Beanblossom Raspberry Hard Cider,Beanblossom Hard Ciders (Oliver ...,"Bloomington, IN",Cider,250 ml,8%,N/A
+85,Beanblossom Strawberry Hard Cider,Beanblossom Hard Ciders (Oliver ...,"Bloomington, IN",Cider,250 ml,8%,N/A
+86,Bear Ass Brown,Silverton Brewery,"Silverton, CO",American Brown Ale,12 oz.,4.20%,N/A
+87,Becky's Black Cat Porter,Seven Brides Brewery,"Silverton, OR",American Porter,16 oz.,7%,55
+88,Belgorado,Wynkoop Brewing Company,"Denver, CO",Belgian IPA,12 oz.,6.70%,45
+89,Beltian White,Harvest Moon Brewing Company,"Belt, MT",Witbier,12 oz.,4.80%,N/A
+90,Bender,Surly Brewing Company,"Brooklyn Center, MN",American Brown Ale,16 oz.,5.10%,45
+91,Bengali Tiger,Sixpoint Craft Ales,"Brooklyn, NY",American IPA,16 oz.,6.40%,62
+92,Big Al Irish Red,Big Al Brewing,"Seattle, WA",Irish Red Ale,16 oz.,6%,26
+93,Big Al Smoked Porter,Big Al Brewing,"Seattle, WA",Smoked Beer,16 oz.,5.80%,44
+94,Big Bend Hefeweizen,Big Bend Brewing Company,"Alpine, TX",Hefeweizen,12 oz.,5.60%,N/A
+95,Big Cock IPA,Great River Brewery,"Davenport, IA",American IPA,16 oz.,7%,70
+96,Big E Scotch Ale,Ellersick Brewing Company (Big E...,"Lynnwood, WA",Scotch Ale / Wee Heavy,16 oz.,7.20%,N/A
+97,Big Elm IPA,Big Elm Brewing,"Sheffield, MA",American IPA,12 oz.,7%,N/A
+98,Big Hoppa India Pale Ale,Big Al Brewing,"Seattle, WA",American IPA,16 oz.,6%,68
+99,Big Island Shandy,Tonka Beer Company,"Minnetonka, MN",Fruit / Vegetable Beer,16 oz.,5%,N/A
+100,Big Red Coq,Brewery Vivant,"Grand Rapids, MI",American Amber / Red Ale,16 oz.,6%,N/A
+101,Big Red Coq (2012),Brewery Vivant,"Grand Rapids, MI",American Amber / Red Ale,16 oz.,6.20%,N/A
+102,Big River Pilsner,Big River Brewing Company,"Chattanooga, TN",Czech Pilsener,12 oz.,5%,32
+103,Big Sky IPA,Big Sky Brewing Company,"Missoula, MT",American IPA,12 oz.,6.20%,65
+104,Big Swell IPA,Maui Brewing Company,"Lahaina, HI",American IPA,12 oz.,6.20%,65
+105,Bikini Blonde Lager,Maui Brewing Company,"Lahaina, HI",Munich Helles Lager,12 oz.,4.50%,18
+106,Bitter American (2011),21st Amendment Brewery,"San Francisco, CA",American Pale Ale (APA),12 oz.,4.40%,42
+107,Bitter American,21st Amendment Brewery,"San Francisco, CA",American Pale Ale (APA),12 oz.,4.40%,42
+108,Bitter Bitch Imperial IPA,Astoria Brewing Company,"Astoria, OR",American Double / Imperial IPA,12 oz.,8.20%,100
+109,Bitter Brewer,Surly Brewing Company,"Brooklyn Center, MN",English Bitter,16 oz.,4%,37
+110,Black Adder IBA (Current),Buckbean Brewing Company,"Reno, NV",American Black Ale,16 oz.,7.30%,85
+111,Black Bear Dark Lager,Morgan Street Brewery,"Saint Louis, MO",Schwarzbier,12 oz.,4.60%,24
+112,Black IPA,Santa Fe Brewing Company,"Santa Fe, NM",American Black Ale,12 oz.,7.10%,95
+113,Black Iron India Pale Ale,Grand Canyon Brewing Company,"Williams, AZ",American IPA,12 oz.,???,N/A
+114,Black Noddy Lager (Current),Buckbean Brewing Company,"Reno, NV",Schwarzbier,16 oz.,5.20%,40
+115,Black Star Double Hopped Golden Lager (12 oz.),Great Northern Brewing Company,"Whitefish, MT",American Pale Lager,12 oz.,4.50%,15
+116,Black Star Double Hopped Golden Lager (24 oz.),Great Northern Brewing Company,"Whitefish, MT",American Pale Lager,24 oz.,4.50%,15
+117,Black Thunder,Austin Beerworks,"Austin, TX",Schwarzbier,12 oz.,5.20%,N/A
+118,Black Walnut Wheat,Piney River Brewing Company,"Bucryus, MO",American Dark Wheat Ale,16 oz.,4.50%,18
+119,Blackbeary Wheat,Long Trail Brewing Company,"Bridgewater Corners, VT",Fruit / Vegetable Beer,12 oz.,4%,8
+120,Blacktop Blonde,TailGate Beer,"San Diego, CA",American Blonde Ale,12 oz.,5%,19
+121,Blacktop Blonde,TailGate Beer,"San Diego, CA",American Blonde Ale,24 oz.,5%,19
+122,Blue Point Summer Ale,Blue Point Brewing Company,"Patchogue, NY",American Blonde Ale,12 oz.,4.40%,16
+123,Blue Point White IPA,Blue Point Brewing Company,"Patchogue, NY",American IPA,12 oz.,6%,40
+124,Blueberry Blonde Ale,Matt Brewing Company,"Utica, NY",American Blonde Ale,12 oz.,5%,12
+125,Boater Beer,Eddyline Brewery & Restaurant,"Buena Vista, CO",German Pilsener,16 oz.,4.50%,N/A
+126,Bodacious Bock,Wildwood Brewing Company,"Stevensville, MT",Bock,16 oz.,7.50%,N/A
+127,Boji Beach Golden Rye Ale,Okoboji Brewing Company,"Spirit Lake, IA",Rye Beer,16 oz.,5%,23
+128,Boji Blue Pale Ale,Okoboji Brewing Company,"Spirit Lake, IA",American Pale Ale (APA),16 oz.,5%,45
+129,Bomb Lager (New Recipe),Bomb Beer Company,"New York, NY",Munich Helles Lager,12 oz.,5.10%,N/A
+130,Bomb Lager (Old Recipe),Bomb Beer Company,"New York, NY",Munich Helles Lager,12 oz.,4.50%,27
+131,Bombshell Blonde,Southern Star Brewing Company,"Conroe, TX",American Blonde Ale,12 oz.,5%,20
+132,Bombshell Blonde,Southern Star Brewing Company,"Conroe, TX",American Blonde Ale,16 oz.,5%,20
+133,Boneshaker Brown Ale,Moat Mountain Smoke House & Brew...,"North Conway, NH",English Brown Ale,24 oz.,5.50%,N/A
+134,Boohai Red Ale,Crazy Mountain Brewing Company,"Edwards, CO",American Amber / Red Ale,12 oz.,???,N/A
+135,Boont Amber Ale,Anderson Valley Brewing Company,"Boonville, CA",American Amber / Red Ale,12 oz.,5.80%,15
+136,Boont Amber Ale (2010),Anderson Valley Brewing Company,"Boonville, CA",American Amber / Red Ale,12 oz.,5.80%,15
+137,Booyah Farmhouse Ale,Milwaukee Brewing Company,"Milwaukee, WI",Saison / Farmhouse Ale,16 oz.,6.50%,20
+138,Boston Lager,Boston Beer Company,"Boston, MA",Vienna Lager,12 oz.,4.90%,30
+139,Bottom Up Belgian Wit,Revolution Brewing Company,"Chicago, IL",Witbier,12 oz.,5%,14
+140,Bourbon Barrel Johan,Sun King Brewing Company,"Indianapolis, IN",English Barleywine,16 oz. Alumi-Tekå¨,10%,60
+141,Bourbon Barrel Wee Mac,Sun King Brewing Company,"Indianapolis, IN",Scottish Ale,16 oz. Alumi-Tekå¨,5.40%,23
+142,Bourbon's Barrel Stout,Great Crescent Brewery,"Aurora, IN",American Stout,16 oz.,7.50%,65
+143,Bozone Select Amber Ale,Bozeman Brewing Company,"Bozeman, MT",American Amber / Red Ale,12 oz.,5.50%,N/A
+144,Brew Free! or Die IPA,21st Amendment Brewery,"San Francisco, CA",American IPA,12 oz.,7%,65
+145,Brew Free! or Die IPA (2009),21st Amendment Brewery,"San Francisco, CA",American IPA,12 oz.,7%,70
+146,Brew Free! or Die IPA (2008),21st Amendment Brewery,"San Francisco, CA",American IPA,12 oz.,7%,70
+147,BrewFarm Select Golden Lager,Dave's Brewfarm,"Wilson, WI",American Pale Lager,12 oz.,5.50%,N/A
+148,Bridal Veil Rye Pale Ale,Telluride Brewing Company,"Telluride, CO",American Pale Ale (APA),12 oz.,5.50%,N/A
+149,BRIK Irish Red Ale,MillKing It Productions,"Royal Oak, MI",Irish Red Ale,16 oz.,4.80%,N/A
+150,British Pale Ale,7 Seas Brewing Company,"Gig Harbor, WA",English Pale Ale,16 oz.,5.40%,30
+151,British Pale Ale (2010),7 Seas Brewing Company,"Gig Harbor, WA",English Pale Ale,16 oz.,5.40%,30
+152,Bronx Pale Ale,The Bronx Brewery,"Bronx, NY",American Pale Ale (APA),16 oz.,6.30%,50
+153,Brooklyn Lager (12 oz.),Brooklyn Brewery,"Brooklyn, NY",American Amber / Red Lager,12 oz.,5.20%,N/A
+154,Brooklyn Lager (16 oz.),Brooklyn Brewery,"Brooklyn, NY",American Amber / Red Lager,16 oz.,5.20%,N/A
+155,Brooklyn Summer Ale (2011),Brooklyn Brewery,"Brooklyn, NY",English Pale Mild Ale,12 oz.,4.50%,N/A
+156,Brooklyn Summer Ale,Brooklyn Brewery,"Brooklyn, NY",English Pale Mild Ale,12 oz.,4.50%,N/A
+157,Brownstone,Sixpoint Craft Ales,"Brooklyn, NY",American Brown Ale,16 oz.,5.90%,47
+158,Brunette Nut Brown Ale,Nebraska Brewing Company,"Papillion, NE",English Brown Ale,12 oz.,4.80%,15
+159,Brush Creek Blonde,Bonfire Brewing Company,"Eagle, CO",American Blonde Ale,16 oz.,4.80%,N/A
+160,Buffalo Sweat (2010),Tallgrass Brewing Company,"Manhattan, KS",Milk / Sweet Stout,16 oz.,5%,20
+161,Buffalo Sweat,Tallgrass Brewing Company,"Manhattan, KS",Milk / Sweet Stout,16 oz.,5%,20
+162,Buried Hatchet Stout,Southern Star Brewing Company,"Conroe, TX",Foreign / Export Stout,12 oz.,8.30%,50
+163,Burning Bush Smoked IPA,Golden Road Brewing,"Los Angeles, CA",American IPA,16 oz.,8%,70
+164,Cabrillo KÌ¦lsch,Golden Road Brewing,"Los Angeles, CA",KÌ¦lsch,16 oz.,5%,N/A
+165,Cache La Porter,Pateros Creek Brewing Company,"Fort Collins, CO",American Porter,16 oz.,5%,24
+166,Caldera IPA,Caldera Brewing Company,"Ashland, OR",American IPA,12 oz.,6.10%,94
+167,Caldera IPA (2007),Caldera Brewing Company,"Ashland, OR",American IPA,12 oz.,6.10%,94
+168,Caldera IPA (2009),Caldera Brewing Company,"Ashland, OR",American IPA,12 oz.,6.10%,94
+169,Caldera Pale Ale,Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+170,Caldera Pale Ale (2007),Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+171,Caldera Pale Ale (2005),Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+172,Caldera Pale Ale (2008),Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+173,Caldera Pale Ale (2010),Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+174,Caldera Pale Ale (2009),Caldera Brewing Company,"Ashland, OR",American Pale Ale (APA),12 oz.,5.60%,55
+175,California Sunshine IPA,Devil's Canyon Brewery,"Belmont, CA",American IPA,16 oz.,7.10%,85
+176,Cane and Ebel,Two Brothers Brewing Company,"Warrenville, IL",American Strong Ale,12 oz.,7%,68
+177,Cant Dog Imperial Pale Ale,Marshall Wharf Brewing Company,"Belfast, ME",American Double / Imperial IPA,16 oz.,9.70%,N/A
+178,Canyon Cream Ale,Crow Peak Brewing Company,"Spearfish, SD",Cream Ale,12 oz.,5.50%,N/A
+179,Capital Gold Golden Lager,Confluence Brewing Company,"Des Moines, IA",German Pilsener,16 oz.,4.80%,22
+180,Car 21,Pateros Creek Brewing Company,"Fort Collins, CO",English Bitter,16 oz.,4.40%,28
+181,Cardinal Pale Ale,Nebraska Brewing Company,"Papillion, NE",American Pale Ale (APA),12 oz.,5.70%,29
+182,Carolina Blonde (2006),Carolina Beer & Beverage,"Mooresville, NC",American Blonde Ale,12 oz.,5%,N/A
+183,Carolina Blonde Light (2005),Carolina Beer & Beverage,"Mooresville, NC",American Blonde Ale,12 oz.,3.50%,N/A
+184,Carolina Lighthouse (2007),Carolina Beer & Beverage,"Mooresville, NC",American Blonde Ale,12 oz.,4%,N/A
+185,Cavatica Stout,Fort George Brewery,"Astoria, OR",American Double / Imperial Stout,16 oz.,8.80%,N/A
+186,Celestial Blonde Ale,Old Forge Brewing Company,"Danville, PA",American Blonde Ale,16 oz.,6.50%,N/A
+187,Celsius Summer Ale,Baxter Brewing Company,"Lewiston, ME",American Pale Wheat Ale,12 oz.,4.70%,N/A
+188,Chaka,Sun King Brewing Company,"Indianapolis, IN",Belgian Strong Pale Ale,16 oz. Alumi-Tekå¨,8%,N/A
+189,Chaka,Oskar Blues Brewery,"Longmont, CO",Belgian Strong Pale Ale,16 oz. Alumi-Tekå¨,8%,N/A
+190,Cherny Bock,Bohemian Brewery,"Midvale, UT",Schwarzbier,12 oz.,4%,N/A
+191,Cherry Ale,Great Crescent Brewery,"Aurora, IN",Fruit / Vegetable Beer,16 oz.,5.70%,18
+192,Chester's Beer (2005),Cottrell Brewing,"Pawcatuck, CT",American Pale Lager,12 oz.,3.80%,N/A
+193,Choc Beer (2003),Krebs Brewing Company (Pete's Pl...,"Krebs, OK",American Dark Wheat Ale,12 oz.,4%,9
+194,Chomo-Lung-Ma Organic Honey Nut Brown,Jackie O's Pub & Brewery,"Athens, OH",English Brown Ale,12 oz.,6.70%,N/A
+195,Chugach Session Ale,Broken Tooth Brewing Company,"Anchorage, AK",Cream Ale,12 oz.,4.80%,N/A
+196,Churchkey Pilsner Style Beer,Churchkey Can Company,"Seattle, WA",American Pilsner,12 oz.,4.90%,29
+197,Circuit Bohemian Pilsner,Tin Man Brewing Company,"Evansville, IN",Czech Pilsener,16 oz.,4.50%,35
+198,CoCoNut Porter,Maui Brewing Company,"Lahaina, HI",American Porter,12 oz.,5.70%,30
+199,Coffee Bender,Surly Brewing Company,"Brooklyn Center, MN",American Brown Ale,16 oz.,5.10%,45
+200,Cold Smoke Scotch Ale,Kettle House Brewing Company,"Missoula, MT",Scotch Ale / Wee Heavy,16 oz.,6.50%,11
+201,Cold Smoke Scotch Ale (2007),Kettle House Brewing Company,"Missoula, MT",Scotch Ale / Wee Heavy,16 oz.,6.50%,11
+202,Colorado KÌ¦lsch,Steamworks Brewing Company,"Durango, CO",KÌ¦lsch,12 oz.,4.90%,17
+203,Colorado Native (2011),AC Golden Brewing Company,"Golden, CO",American Amber / Red Lager,12 oz.,5.50%,26
+204,Colorado Native,AC Golden Brewing Company,"Golden, CO",American Amber / Red Lager,12 oz.,5.50%,26
+205,Colorado Red Ale,Revolution Brewing,"Paonia, CO",American Amber / Red Ale,12 oz.,6.20%,N/A
+206,Contemplation,Brewery Vivant,"Grand Rapids, MI",BiÌ¬re de Garde,16 oz.,6.50%,N/A
+207,Copper Hook (2011),Redhook Brewery,"Woodinville, WA",American Amber / Red Ale,12 oz.,5.80%,27
+208,Cornerstone IPA,Rochester Mills Brewing Company,"Rochester, MI",American IPA,16 oz.,7%,N/A
+209,Cornstalker Dark Wheat,Thunderhead Brewing Company,"Kearney, NE",American Dark Wheat Ale,12 oz.,???,N/A
+210,Country Pale Ale,Wachusett Brewing Company,"Westminster, MA",English Pale Ale,12 oz.,5.10%,17
+211,Crabtree Oatmeal Stout,Crabtree Brewing Company,"Greeley, CO",Oatmeal Stout,16 oz.,7.50%,29
+212,Crank Yanker IPA,Eddyline Brewery & Restaurant,"Buena Vista, CO",American IPA,16 oz.,7.80%,74
+213,Crazy Mountain Amber Ale,Crazy Mountain Brewing Company,"Edwards, CO",American Amber / Red Ale,12 oz.,5.20%,25
+214,Cream Dream V: I Thought We Were Buddies‰Û_,Sun King Brewing Company,"Indianapolis, IN",American Double / Imperial IPA,16 oz.,9%,100
+215,CuDa Cascadian Dark Ale,Natian Brewery,"Portland, OR",American Black Ale,16 oz.,7.40%,N/A
+216,Cut Throat Pale Ale (2011),Finch's Beer Company,"Chicago, IL",American Pale Ale (APA),16 oz.,5.50%,N/A
+217,Cut Throat Pale Ale,Finch's Beer Company,"Chicago, IL",American Pale Ale (APA),16 oz.,5.50%,N/A
+218,Cutthroat Pale Ale,Uinta Brewing Company,"Salt Lake City, UT",American Pale Ale (APA),12 oz.,4%,34
+219,CynicAle,Surly Brewing Company,"Brooklyn Center, MN",Saison / Farmhouse Ale,16 oz.,6.70%,33
+220,Czech Pilsner,Bohemian Brewery,"Midvale, UT",Czech Pilsener,12 oz.,5%,N/A
+221,Dagger Falls IPA,Sockeye Brewing Company,"Boise, ID",American IPA,12 oz.,6.30%,100
+222,Daisy Cutter Pale Ale,Half Acre Beer Company,"Chicago, IL",American Pale Ale (APA),16 oz.,5.20%,N/A
+223,Dale's Pale Ale,Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),12 oz.,6.50%,65
+224,Dale's Pale Ale (2002),Oskar Blues Brewery,"Lyons, CO",American Pale Ale (APA),12 oz.,6.50%,65
+225,Dale's Pale Ale (2004),Oskar Blues Brewery,"Lyons, CO",American Pale Ale (APA),12 oz.,6.50%,65
+226,Dale's Pale Ale (2003),Oskar Blues Brewery,"Lyons, CO",American Pale Ale (APA),12 oz.,6.50%,65
+227,Dale's Pale Ale (2006),Oskar Blues Brewery,"Lyons, CO",American Pale Ale (APA),12 oz.,6.50%,65
+228,Dale's Pale Ale (2008),Oskar Blues Brewery,"Lyons, CO",American Pale Ale (APA),12 oz.,6.50%,65
+229,Dale's Pale Ale (2010),Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),12 oz.,6.50%,65
+230,Dale's Pale Ale (2011),Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),12 oz.,6.50%,65
+231,Dale's Pale Ale (2012),Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),12 oz.,6.50%,65
+232,Dale's Pale Ale,Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),19.2 oz.,6.50%,65
+233,Dale's Pale Ale,Oskar Blues Brewery,"Brevard, NC",American Pale Ale (APA),12 oz.,6.50%,65
+234,Dale's Pale Ale,Oskar Blues Brewery,"Brevard, NC",American Pale Ale (APA),19.2 oz.,6.50%,65
+235,Dale's Pale Ale (10 Year Anniversary),Oskar Blues Brewery,"Longmont, CO",American Pale Ale (APA),12 oz.,6.50%,65
+236,Dallas Blonde,Deep Ellum Brewing Company,"Dallas, TX",American Blonde Ale,12 oz.,5.20%,23
+237,Dank IPA,Dad & Dude's Breweria,"Aurora, CO",American IPA,16 oz.,6.50%,N/A
+238,Davy Jones Lager,Heavy Seas Beer,"Halethorpe, MD",Cream Ale,12 oz.,6%,N/A
+239,DAX Light (1998),Matt Brewing Company,"Utica, NY",Light Lager,12 oz.,4.50%,N/A
+240,Day Tripper Pale Ale,Indeed Brewing Company,"Minneapolis, MN",American Pale Ale (APA),12 oz.,5.40%,45
+241,Dead Horse Amber,Moab Brewery,"Moab, UT",American Pale Wheat Ale,16 oz.,4%,N/A
+242,Deadicated Amber,Devil's Canyon Brewery,"Belmont, CA",American Amber / Red Ale,16 oz.,5.40%,27
+243,Deep Ellum IPA,Deep Ellum Brewing Company,"Dallas, TX",American IPA,12 oz.,7%,70
+244,Deez Melons,Southern Prohibition Brewing Com...,"Hattiesburg, MS",Fruit / Vegetable Beer,16 oz.,???,N/A
+245,Demshitz Brown Ale,Bonfire Brewing Company,"Eagle, CO",American Brown Ale,12 oz.,5.80%,N/A
+246,Des Moines IPA,Confluence Brewing Company,"Des Moines, IA",American IPA,16 oz.,6.80%,75
+247,Descender IPA,Good Life Brewing Company,"Bend, OR",American IPA,12 oz.,7%,70
+248,Desert Magic IPA,Mudshark Brewing Company,"Lake Havasu City, AZ",American IPA,12 oz.,7.20%,N/A
+249,Desolation IPA,Amnesia Brewing Company,"Portland, OR",American IPA,16 oz.,6.20%,43
+250,Deviant Dale's IPA,Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,16 oz.,8%,N/A
+251,Devil's Harvest Extra Pale Ale,Southern Prohibition Brewing Com...,"Hattiesburg, MS",American Pale Ale (APA),16 oz.,???,N/A
+252,Devil‰Ûªs Ale (2010),SanTan Brewing Company,"Chandler, AZ",American Pale Ale (APA),12 oz.,5.50%,45
+253,Devil‰Ûªs Ale,SanTan Brewing Company,"Chandler, AZ",American Pale Ale (APA),12 oz.,5.50%,45
+254,Devils Tramping Ground Tripel,Aviator Brewing Company,"Fuquay-Varina, NC",Tripel,12 oz.,9.20%,5
+255,Diesel,Sixpoint Craft Ales,"Brooklyn, NY",American Stout,16 oz.,6.30%,69
+256,Dirty Blonde Ale,Atwater Brewery,"Detroit, MI",American Blonde Ale,12 oz.,4.50%,8
+257,Dirty Hippie Dark Wheat,Palisade Brewing Company,"Palisade, CO",American Dark Wheat Ale,12 oz.,5.30%,N/A
+258,Disconnected Red,Big Choice Brewing,"Broomfield, CO",American Amber / Red Ale,16 oz.,6.70%,85
+259,Dock Street Amber Beer (1992),Dock Street Brewery,"Philadelphia, PA",American Amber / Red Ale,12 oz.,???,N/A
+260,Dolores River Dry Stout,Dolores River Brewery,"Dolores, CO",Irish Dry Stout,16 oz.,???,N/A
+261,Dolores River ESB,Dolores River Brewery,"Dolores, CO",Extra Special / Strong Bitter (ESB),16 oz.,???,N/A
+262,Dolores River Hefeweizen,Dolores River Brewery,"Dolores, CO",Hefeweizen,16 oz.,???,N/A
+263,Dolores River Mild,Dolores River Brewery,"Dolores, CO",English Dark Mild Ale,16 oz.,???,N/A
+264,Dolores River Pale Ale,Dolores River Brewery,"Dolores, CO",American Pale Ale (APA),16 oz.,???,N/A
+265,Dottie Seattle Lager,Emerald City Beer Company,"Seattle, WA",American Amber / Red Lager,16 oz.,4.90%,25
+266,Double Bag,Long Trail Brewing Company,"Bridgewater Corners, VT",Altbier,16 oz.,7.20%,33
+267,Double D Blonde,Hop Valley Brewing Company,"Springfield, OR",American Blonde Ale,12 oz.,4.90%,20
+268,Double Haul IPA,Kettle House Brewing Company,"Missoula, MT",American IPA,16 oz.,6.50%,65
+269,Double Haul IPA (2006),Kettle House Brewing Company,"Missoula, MT",American IPA,16 oz.,6.50%,65
+270,Double Haul IPA (2009),Kettle House Brewing Company,"Missoula, MT",American IPA,16 oz.,6.50%,65
+271,Downpour,Foolproof Brewing Company,"Pawtucket, RI",American Porter,12 oz.,6.50%,N/A
+272,Draught Hard Apple Cider,Uncle John's Fruit House Winery,"St. John's, MI",Cider,16 oz.,6.50%,N/A
+273,Drop Dead Blonde,Stevens Point Brewery,"Stevens Point, WI",American Blonde Ale,12 oz.,3.50%,N/A
+274,Dry Dock Amber Ale,Dry Dock Brewing Company,"Aurora, CO",American Amber / Red Ale,12 oz.,5.80%,49
+275,Dry Dock Hefeweizen,Dry Dock Brewing Company,"Aurora, CO",Hefeweizen,12 oz.,4.30%,12
+276,Dry Heat Hefeweizen (2006),Mudshark Brewing Company,"Lake Havasu City, AZ",Hefeweizen,12 oz.,5.50%,N/A
+277,Duckpin Pale Ale,Union Craft Brewing,"Baltimore, MD",American Pale Ale (APA),12 oz.,5.50%,N/A
+278,Dundee Summer Wheat Beer,Dundee Brewing Company,"Rochester, NY",American Pale Wheat Ale,12 oz.,4.50%,18
+279,Dunkel Lager,Sly Fox Brewing Company,"Phoenixville, PA",Munich Dunkel Lager,12 oz.,5.30%,21
+280,East India Pale Ale,Brooklyn Brewery,"Brooklyn, NY",English India Pale Ale (IPA),12 oz.,6.80%,47
+281,Easy Rider Pale Ale,Lucette Brewing Company,"Menominie, WI",American Pale Ale (APA),16 oz.,5.20%,N/A
+282,Eclipse Black IPA,Crabtree Brewing Company,"Greeley, CO",American Black Ale,16 oz.,7.70%,71
+283,Eddy Out Pale Ale,Kettle House Brewing Company,"Missoula, MT",American Pale Ale (APA),16 oz.,5.50%,50
+284,Elder Betty,Magic Hat Brewing Company,"South Burlington, VT",Hefeweizen,12 oz.,5.50%,13
+285,Elevated IPA,La Cumbre Brewing Company,"Albuquerque, NM",American IPA,16 oz.,7.20%,100
+286,Elevation Triple India Pale Ale,Renegade Brewing Company,"Denver, CO",American Double / Imperial IPA,12 oz.,11%,100
+287,Ellie‰Ûªs Brown Ale,Avery Brewing Company,"Boulder, CO",American Brown Ale,12 oz.,5.50%,17
+288,Elm City Lager (2007),New England Brewing Company,"Woodbridge, CT",American Pilsner,12 oz.,5%,N/A
+289,Elm City Pilsner,New England Brewing Company,"Woodbridge, CT",American Pilsner,12 oz.,5%,N/A
+290,Endless Summer Ale,Old Forge Brewing Company,"Danville, PA",American Pale Wheat Ale,16 oz.,4.80%,N/A
+291,EOS Hefeweizen,Nebraska Brewing Company,"Papillion, NE",Hefeweizen,12 oz.,4.80%,10
+292,Epic IPA,Mammoth Brewing Company,"Mammoth Lakes, CA",American IPA,12 oz.,6.50%,N/A
+293,Epicenter Amber Ale (2010),SanTan Brewing Company,"Chandler, AZ",American Amber / Red Ale,12 oz.,5.50%,20
+294,Epicenter Amber Ale,SanTan Brewing Company,"Chandler, AZ",American Amber / Red Ale,12 oz.,5.50%,20
+295,ESB Special Ale,Ska Brewing Company,"Durango, CO",Extra Special / Strong Bitter (ESB),12 oz.,5.70%,58
+296,Escoffier Bretta Ale,Brewery Vivant,"Grand Rapids, MI",American Wild Ale,16 oz.,9.20%,N/A
+297,Eugene Porter,Revolution Brewing Company,"Chicago, IL",American Porter,12 oz.,6.80%,28
+298,Euphoria Pale Ale,Ska Brewing Company,"Durango, CO",American Pale Ale (APA),12 oz.,6.10%,N/A
+299,Evolutionary IPA (2011),Two Beers Brewing Company,"Seattle, WA",American IPA,12 oz.,6.20%,70
+300,Evolutionary IPA,Two Beers Brewing Company,"Seattle, WA",American IPA,12 oz.,6.20%,70
+301,Ex Umbris Rye Imperial Stout,Hess Brewing Company,"San Diego, CA",American Double / Imperial Stout,16 oz.,10%,85
+302,Expedition Amber Ale,Harmon Brewing Company,"Tacoma, WA",American Amber / Red Ale,16 oz.,???,N/A
+303,Face Down Brown Ale,Telluride Brewing Company,"Telluride, CO",American Brown Ale,12 oz.,5.70%,N/A
+304,Fairweather IPA,Broken Tooth Brewing Company,"Anchorage, AK",American IPA,12 oz.,6.10%,64
+305,Farm Girl Saison,Lift Bridge Brewing Company,"Stillwater, MN",Saison / Farmhouse Ale,16 oz.,6%,30
+306,Farm Hand,Brewery Vivant,"Grand Rapids, MI",Saison / Farmhouse Ale,16 oz.,5.50%,N/A
+307,Farmer Brown Ale,Great River Brewery,"Davenport, IA",American Brown Ale,16 oz.,7%,22
+308,Farmer John's Multi-Grain Ale,Confluence Brewing Company,"Des Moines, IA",American Blonde Ale,16 oz.,5.60%,21
+309,Farmer Ted's Farmhouse Cream Ale,Catawba Valley Brewing Company,"Morganton, NC",Cream Ale,12 oz.,5.60%,N/A
+310,Fascist Pig Ale,Finch's Beer Company,"Chicago, IL",American Amber / Red Ale,16 oz.,8%,72
+311,Fat Tire Amber Ale,New Belgium Brewing Company,"Fort Collins, CO",American Amber / Red Ale,12 oz.,5.20%,N/A
+312,Fat Tire Amber Ale,New Belgium Brewing Company,"Fort Collins, CO",American Amber / Red Ale,16 oz.,5.20%,N/A
+313,Fat Tire Amber Ale (2011),New Belgium Brewing Company,"Fort Collins, CO",American Amber / Red Ale,12 oz.,5.20%,N/A
+314,Fearless Scottish Ale,Fearless Brewing Company,"Estacada, OR",Scottish Ale,16 oz.,5%,N/A
+315,Festie,Starr Hill Brewery,"Crozet, VA",MÌ_rzen / Oktoberfest,12 oz.,4.80%,12
+316,Field 41 Pale Ale,Bale Breaker Brewing Company,"Moxee, WA",American Pale Ale (APA),12 oz.,4.40%,38
+317,Fire Eagle IPA,Austin Beerworks,"Austin, TX",American IPA,12 oz.,6.20%,N/A
+318,Firefly Amber Ale,Jackie O's Pub & Brewery,"Athens, OH",American Amber / Red Ale,12 oz.,5%,N/A
+319,Firemans #4 Blonde Ale,Real Ale Brewing Company,"Blanco, TX",American Blonde Ale,12 oz.,5.10%,21
+320,Fireside Chat (2010),21st Amendment Brewery,"San Francisco, CA",Winter Warmer,12 oz.,7.90%,45
+321,Fireside Chat,21st Amendment Brewery,"San Francisco, CA",Winter Warmer,12 oz.,7.90%,45
+322,Firestarter India Pale Ale,Bonfire Brewing Company,"Eagle, CO",American IPA,16 oz.,6.60%,72
+323,Firewater India Pale Ale,Catawba Valley Brewing Company,"Morganton, NC",American IPA,12 oz.,5.20%,N/A
+324,Fistmas Ale,Revolution Brewing Company,"Chicago, IL",Herbed / Spiced Beer,12 oz.,6.10%,31
+325,Flagship Ale,Grey Sail Brewing of Rhode Island,"Westerly, RI",Cream Ale,12 oz.,4.90%,22
+326,Flagship IPA,Carolina Brewery,"Pittsboro, NC",English India Pale Ale (IPA),12 oz.,5.70%,N/A
+327,Flaming Damsel Lager (2010),Milwaukee Brewing Company,"Milwaukee, WI",Vienna Lager,16 oz.,4.80%,18
+328,Floppin' Crappie,Northwoods Brewpub,"Eau Claire, WI",American Pale Wheat Ale,12 oz.,4.50%,N/A
+329,Florida Cracker Belgian Wit,Cigar City Brewing Company,"Tampa, FL",Witbier,12 oz.,5%,18
+330,Flyin' HI.P.Hay,Maui Brewing Company,"Lahaina, HI",American IPA,12 oz.,6.80%,68
+331,Flying Jenny Extra Pale Ale,Grey Sail Brewing of Rhode Island,"Westerly, RI",American Pale Ale (APA),12 oz.,6%,54
+332,Forest Ale,Big Wood Brewery,"Vadnais Heights, MN",American Pale Ale (APA),16 oz.,5%,N/A
+333,Fountain House Light,Doylestown Brewing Company,"Doylestown, PA",Light Lager,12 oz.,4.30%,N/A
+334,Four Squared,Real Ale Brewing Company,"Blanco, TX",American Blonde Ale,12 oz.,6%,50
+335,Fox Tail Gluten Free Ale,Joseph James Brewing Company,"Henderson, NV",American Pale Ale (APA),12 oz.,5%,50
+336,Frankenlou's IPA,Seven Brides Brewery,"Silverton, OR",American IPA,16 oz.,7%,105
+337,Freestyle Pilsner,Santa Fe Brewing Company,"Santa Fe, NM",German Pilsener,12 oz.,5.50%,N/A
+338,Fremont Organic Pale Ale,Fremont Brewing Company,"Seattle, WA",American Pale Ale (APA),12 oz.,4.50%,N/A
+339,Fremont Summer Ale,Fremont Brewing Company,"Seattle, WA",American Pale Ale (APA),12 oz.,6.50%,45
+340,Frosted Fields Winter Wheat,Great Crescent Brewery,"Aurora, IN",American Dark Wheat Ale,16 oz.,6%,25
+341,Full Boar Scotch Ale,Devil's Canyon Brewery,"Belmont, CA",Scotch Ale / Wee Heavy,16 oz.,7.40%,12
+342,Full Moon Belgian White Ale (2007),Mudshark Brewing Company,"Lake Havasu City, AZ",Witbier,12 oz.,8.50%,N/A
+343,Full Moon Belgian White Ale,Mudshark Brewing Company,"Lake Havasu City, AZ",Witbier,12 oz.,8.50%,N/A
+344,Full Nelson Pale Ale,Blue Mountain Brewery,"Afton, VA",American Pale Ale (APA),12 oz.,5.90%,60
+345,Furious,Surly Brewing Company,"Brooklyn Center, MN",American IPA,16 oz.,6.20%,99
+346,G'KNIGHT (12 oz.),Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,12 oz.,8.70%,85
+347,G'KNIGHT (16 oz.),Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,16 oz.,8.70%,85
+348,Galena Golden,Sockeye Brewing Company,"Boise, ID",American Blonde Ale,12 oz.,4.30%,N/A
+349,Gandhi-Bot Double IPA (12 oz.),New England Brewing Company,"Woodbridge, CT",American Double / Imperial IPA,12 oz.,8.80%,85
+350,Gandhi-Bot Double IPA (16 oz.) (2010),New England Brewing Company,"Woodbridge, CT",American Double / Imperial IPA,16 oz.,8.80%,85
+351,Gangway IPA,Red Hare Brewing Company,"Marietta, GA",American IPA,12 oz.,6.20%,N/A
+352,Gerry Dog Stout,Big Elm Brewing,"Sheffield, MA",American Stout,12 oz.,6.50%,N/A
+353,Get Up Offa That Brown,Golden Road Brewing,"Los Angeles, CA",American Brown Ale,16 oz.,5.50%,N/A
+354,Gnarly Brown,Madtree Brewing Company,"Cincinnati, OH",American Brown Ale,12 oz.,7%,N/A
+355,Golden Frau Honey Wheat,Thunderhead Brewing Company,"Kearney, NE",Braggot,12 oz.,7.50%,N/A
+356,Golden Pilsner,Morgan Street Brewery,"Saint Louis, MO",German Pilsener,12 oz.,5%,35
+357,Golden Road Hefeweizen,Golden Road Brewing,"Los Angeles, CA",Hefeweizen,16 oz.,4.60%,N/A
+358,Golden State Ale,Uncommon Brewers,"Santa Cruz, CA",Belgian Pale Ale,16 oz.,6.40%,N/A
+359,Golden Trout Pilsner,Mammoth Brewing Company,"Mammoth Lakes, CA",German Pilsener,12 oz.,4.20%,N/A
+360,Golden Wing Blonde Ale,Finch's Beer Company,"Chicago, IL",American Blonde Ale,16 oz.,4.70%,N/A
+361,Good People American Brown Ale,Good People Brewing Company,"Birmingham, AL",American Brown Ale,12 oz.,5.80%,36
+362,Good People IPA,Good People Brewing Company,"Birmingham, AL",American IPA,12 oz.,6%,64
+363,Good People Pale Ale,Good People Brewing Company,"Birmingham, AL",American Pale Ale (APA),12 oz.,5.60%,36
+364,Gordon (2005),Oskar Blues Brewery,"Lyons, CO",American Double / Imperial IPA,12 oz.,9.20%,85
+365,Gordon Ale (2009),Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,12 oz.,8.70%,85
+366,Gordon Beer (2006),Oskar Blues Brewery,"Lyons, CO",American Double / Imperial IPA,12 oz.,8.70%,60
+367,Gordon Imperial Red (2010),Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,12 oz.,8.70%,85
+368,Gossamer Golden Ale,Half Acre Beer Company,"Chicago, IL",American Blonde Ale,16 oz.,4.20%,N/A
+369,Grand Canyon American Pilsner,Grand Canyon Brewing Company,"Williams, AZ",American Pisner,12 oz.,5.20%,N/A
+370,Grand Canyon Sunset Amber Ale,Grand Canyon Brewing Company,"Williams, AZ",American Amber / Red Ale,12 oz.,5.40%,N/A
+371,Grand Circus IPA,Atwater Brewery,"Detroit, MI",American IPA,12 oz.,5%,62
+372,Grapefruit Jungle (GFJ),Sun King Brewing Company,"Indianapolis, IN",American IPA,16 oz.,7.50%,N/A
+373,Grateful White,Rivertowne Brewing Company,"Export, PA",Witbier,12 oz.,6.10%,N/A
+374,Great Crescent Belgian Style Wit,Great Crescent Brewery,"Aurora, IN",Witbier,16 oz.,5.10%,13
+375,Great Crescent Blonde Ale,Great Crescent Brewery,"Aurora, IN",American Blonde Ale,16 oz.,5.30%,22
+376,Great Crescent Brown Ale,Great Crescent Brewery,"Aurora, IN",American Brown Ale,16 oz.,4.50%,36
+377,Great Crescent Coconut Porter,Great Crescent Brewery,"Aurora, IN",American Porter,16 oz.,5.60%,33
+378,Great Crescent Dark Lager,Great Crescent Brewery,"Aurora, IN",Euro Dark Lager,16 oz.,5.70%,23
+379,Great Crescent India Pale Ale,Great Crescent Brewery,"Aurora, IN",American IPA,16 oz.,???,N/A
+380,Great Crescent Mild Ale,Great Crescent Brewery,"Aurora, IN",English Dark Mild Ale,16 oz.,4.20%,26
+381,Great Crescent Oktoberfest Lager,Great Crescent Brewery,"Aurora, IN",MÌ_rzen / Oktoberfest,16 oz.,5.70%,25
+382,Great Crescent Stout,Great Crescent Brewery,"Aurora, IN",English Stout,16 oz.,8%,66
+383,Great Falls Select Pale Ale,Harvest Moon Brewing Company,"Belt, MT",American Blonde Ale,12 oz.,???,N/A
+384,Green Head IPA,Newburyport Brewing Company,"Newburyport, MA",American IPA,12 oz.,???,N/A
+385,Green Monsta IPA,Wachusett Brewing Company,"Westminster, MA",American IPA,12 oz.,6%,55
+386,Greenville Pale Ale,Twin Lakes Brewing Company,"Greenville, DE",American Pale Ale (APA),12 oz.,5.50%,52
+387,Grey Lady,Cisco Brewers,"Nantucket, MA",Witbier,12 oz.,4.50%,N/A
+388,GUBNA Imperial IPA,Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,12 oz.,10%,100
+389,Hala Kahiki Pineapple Beer,Rivertowne Brewing Company,"Export, PA",Fruit / Vegetable Beer,12 oz.,4.80%,N/A
+390,Halcyon Unfiltered Wheat,Tallgrass Brewing Company,"Manhattan, KS",American Pale Wheat Ale,12 oz.,5%,20
+391,Halcyon Unfiltered Wheat,Tallgrass Brewing Company,"Manhattan, KS",American Pale Wheat Ale,16 oz.,5%,20
+392,Hangar 24 Helles Lager,Hangar 24 Craft Brewery,"Redlands, CA",Munich Helles Lager,12 oz.,4.30%,14
+393,Hans' Pils,Real Ale Brewing Company,"Blanco, TX",German Pilsener,12 oz.,5.30%,52
+394,Happy Amber,Madtree Brewing Company,"Cincinnati, OH",American Amber / Red Ale,12 oz.,6%,N/A
+395,Happy Camper IPA,Santa Fe Brewing Company,"Santa Fe, NM",American IPA,12 oz.,6.60%,N/A
+396,Harbinger,Sixpoint Craft Ales,"Brooklyn, NY",Saison / Farmhouse Ale,16 oz.,4.90%,35
+397,Harpoon IPA (2010),Harpoon Brewery,"Boston, MA",American IPA,12 oz.,5.90%,42
+398,Harpoon IPA,Harpoon Brewery,"Boston, MA",American IPA,12 oz.,5.90%,42
+399,Harpoon Summer Beer (2010),Harpoon Brewery,"Boston, MA",KÌ¦lsch,12 oz.,5%,28
+400,Harpoon Summer Beer,Harpoon Brewery,"Boston, MA",KÌ¦lsch,12 oz.,5%,28
+401,Harvest Ale,Fremont Brewing Company,"Seattle, WA",Saison / Farmhouse Ale,12 oz.,6.50%,35
+402,Hayride Autumn Ale,Baxter Brewing Company,"Lewiston, ME",Rye Beer,12 oz.,6.60%,N/A
+403,Haywire Hefeweizen (2010),Pyramid Breweries,"Seattle, WA",Hefeweizen,16 oz.,5.20%,18
+404,Hazed & Infused,Boulder Beer Company,"Boulder, CO",American Pale Ale (APA),12 oz.,4.90%,35
+405,Heady Topper (2011),Alchemist Cannery,"Waterbury, VT",American Double / Imperial IPA,16 oz.,8%,120
+406,Heady Topper,Alchemist Cannery,"Waterbury, VT",American Double / Imperial IPA,16 oz.,8%,120
+407,Heiner Brau KÌ¦lsch,Covington Brewhouse,"Covington, LA",KÌ¦lsch,12 oz.,5%,N/A
+408,Heinnieweisse Weissebier,Butternuts Beer and Ale,"Garrattsville, NY",Hefeweizen,12 oz.,4.90%,N/A
+409,Hell,Surly Brewing Company,"Brooklyn Center, MN",Keller Bier / Zwickel Bier,16 oz.,5.10%,20
+410,Hell or High Watermelon Wheat,21st Amendment Brewery,"San Francisco, CA",Fruit / Vegetable Beer,12 oz.,4.90%,17
+411,Hell or High Watermelon Wheat (2009),21st Amendment Brewery,"San Francisco, CA",Fruit / Vegetable Beer,12 oz.,4.90%,17
+412,Hell or High Watermelon Wheat (2009),21st Amendment Brewery,"San Francisco, CA",Fruit / Vegetable Beer,12 oz.,4.90%,17
+413,Hell-Diver Pale Ale,Sockeye Brewing Company,"Boise, ID",American Pale Ale (APA),12 oz.,5.20%,32
+414,HGH (Home Grown Hops): Part Duh,Oskar Blues Brewery,"Longmont, CO",American Strong Ale,12 oz.,8%,70
+415,Hibernal Vinifera Stout,Ska Brewing Company,"Durango, CO",Foreign / Export Stout,12 oz.,8%,N/A
+416,High Country Pilsner (Current),Mammoth Brewing Company,"Mammoth Lakes, CA",German Pilsener,12 oz.,4.20%,N/A
+417,Hilliard's Amber Ale,Hilliard's Beer,"Seattle, WA",American Amber / Red Ale,16 oz.,5.50%,60
+418,Hilliard's Blonde,Hilliard's Beer,"Seattle, WA",American Blonde Ale,16 oz.,4.90%,20
+419,Hilliard's Pils,Hilliard's Beer,"Seattle, WA",Czech Pilsener,16 oz.,5.50%,34
+420,Hilliard's Saison,Hilliard's Beer,"Seattle, WA",Saison / Farmhouse Ale,16 oz.,6.60%,30
+421,Hipster Ale,Westbrook Brewing Company,"Mt. Pleasant, SC",American Pale Ale (APA),12 oz.,5.50%,N/A
+422,Hipster Breakfast,Southern Prohibition Brewing Com...,"Hattiesburg, MS",Oatmeal Stout,16 oz.,???,N/A
+423,Hobnob B & B Pale Ale,Two Brothers Brewing Company,"Warrenville, IL",American Pale Ale (APA),12 oz.,6.50%,N/A
+424,Hog Wild India Pale Ale,Aviator Brewing Company,"Fuquay-Varina, NC",American IPA,12 oz.,6.70%,N/A
+425,Honey Wheat,Morgan Street Brewery,"Saint Louis, MO",American Pale Wheat Ale,12 oz.,4.70%,N/A
+426,Hoopla Pale Ale,Boulder Beer Company,"Boulder, CO",American Pale Ale (APA),12 oz.,5.70%,35
+427,Hop Abomination,Dry Dock Brewing Company,"Aurora, CO",American IPA,12 oz.,6.60%,100
+428,Hop Box Imperial IPA,Joseph James Brewing Company,"Henderson, NV",American Double / Imperial IPA,12 oz.,9.30%,90
+429,Hop Crisis,21st Amendment Brewery,"San Francisco, CA",American Double / Imperial IPA,12 oz.,9.70%,94
+430,Hop Happy,Milwaukee Brewing Company,"Milwaukee, WI",American IPA,16 oz.,7.50%,51
+431,Hop Knot IPA,Four Peaks Brewing Company,"Tempe, AZ",American IPA,12 oz.,6.70%,47
+432,Hop Notch IPA,Uinta Brewing Company,"Salt Lake City, UT",American IPA,12 oz.,7.30%,82
+433,Hop Ottin' IPA,Anderson Valley Brewing Company,"Boonville, CA",American IPA,12 oz.,7%,80
+434,Hop Shock IPA (2010),SanTan Brewing Company,"Chandler, AZ",American IPA,12 oz.,7%,85
+435,Hop Shock IPA,SanTan Brewing Company,"Chandler, AZ",American IPA,12 oz.,7%,85
+436,Hop Slayer Double IPA (2011),The Wild Onion Brewing Company/T...,"Lake Barrington, IL",American Double / Imperial IPA,12 oz.,8%,N/A
+437,Hop Slayer Double IPA,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",American Double / Imperial IPA,12 oz.,8%,N/A
+438,Hop Villain,Big Al Brewing,"Seattle, WA",American Black Ale,16 oz.,6.40%,65
+439,Hop-A-Potamus Rye PA,Great River Brewery,"Davenport, IA",American Double / Imperial IPA,16 oz.,9%,99
+440,Hopadillo India Pale Ale,Karbach Brewing Company,"Houston, TX",American IPA,12 oz.,6.60%,70
+441,Hopitoulas IPA,New Orleans Lager & Ale Brewing ...,"New Orleans, LA",American IPA,16 oz.,6.50%,N/A
+442,Hopluia (2004),Spilker Ales,"Cortland, NE",English India Pale Ale (IPA),16 oz.,???,N/A
+443,Hoppy Boy,Twisted Pine Brewing Company,"Boulder, CO",American IPA,16 oz.,6.20%,65
+444,Hoppy Redhead,Ellersick Brewing Company (Big E...,"Lynnwood, WA",Extra Special / Strong Bitter (ESB),16 oz.,6.50%,45
+445,Hopworks IPA,Hopworks Urban Brewery,"Portland, OR",American IPA,16 oz.,6.60%,75
+446,Horny Toad Cerveza,COOP Ale Works,"Oklahoma City, OK",American Blonde Ale,16 oz.,5.30%,25
+447,Hot Rod Red,Aviator Brewing Company,"Fuquay-Varina, NC",American Amber / Red Ale,12 oz.,6.10%,41
+448,Hotter Than Helles Lager,Cigar City Brewing Company,"Tampa, FL",Munich Helles Lager,12 oz.,5%,N/A
+449,House Brand IPA,Big River Brewing Company,"Chattanooga, TN",American IPA,12 oz.,6%,55
+450,HUB Lager,Hopworks Urban Brewery,"Portland, OR",Czech Pilsener,16 oz.,5.10%,32
+451,Hubris Quadrupel Anniversary Ale,Brewery Vivant,"Grand Rapids, MI",Quadrupel (Quad),16 oz.,11.50%,N/A
+452,Humidor Series India Pale Ale,Cigar City Brewing Company,"Tampa, FL",American IPA,12 oz.,7.50%,70
+453,Hurricane Amber Ale,Coastal Extreme Brewing Company,"Newport, RI",American Amber / Red Ale,12 oz.,5.20%,24
+454,Hurricane Amber Ale (2004),Coastal Extreme Brewing Company,"Newport, RI",American Amber / Red Ale,12 oz.,5.20%,24
+455,I-10 IPA,Intuition Ale Works,"Jacksonville, FL",American IPA,12 oz.,6.80%,55
+456,Ice Pick Ale,Silverton Brewery,"Silverton, CO",American IPA,12 oz.,6.80%,N/A
+457,IceyPA,Oskar Blues Brewery,"Longmont, CO",American IPA,16 oz. Alumi-Tekå¨,???,N/A
+458,Immersion Amber Ale,Two Beers Brewing Company,"Seattle, WA",American Amber / Red Ale,12 oz.,5.20%,27
+459,Imperial Java Stout,Santa Fe Brewing Company,"Santa Fe, NM",Russian Imperial Stout,12 oz.,8%,N/A
+460,Inclined Plane Ale,Flat Rock Brewing Company,"Smithton, PA",American IPA,12 oz.,???,N/A
+461,Independence Pass Ale,Aspen Brewing Company,"Aspen, CO",American IPA,12 oz.,7%,67
+462,Indianapolis Indians Lager,Sun King Brewing Company,"Indianapolis, IN",Dortmunder / Export Lager,16 oz.,5.20%,24
+463,Indians Victory Lager (2012),Sun King Brewing Company,"Indianapolis, IN",Dortmunder / Export Lager,16 oz.,5.20%,24
+464,Indie Pale Ale,Cisco Brewers,"Nantucket, MA",American IPA,12 oz.,6.50%,N/A
+465,Interurban IPA,Fremont Brewing Company,"Seattle, WA",American IPA,12 oz.,6.50%,80
+466,Invasion Pale Ale,Cigar City Brewing Company,"Tampa, FL",American Pale Ale (APA),12 oz.,5%,N/A
+467,Iron Mike Pale Ale,Moat Mountain Smoke House & Brew...,"North Conway, NH",American Pale Ale (APA),24 oz.,5.60%,N/A
+468,Isis,Sun King Brewing Company,"Indianapolis, IN",American Double / Imperial IPA,16 oz.,9.10%,91
+469,Island Wheat,Capital Brewery,"Middleton, WI",American Pale Wheat Ale,12 oz.,4.20%,N/A
+470,Jack Stout,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",Oatmeal Stout,12 oz.,6.50%,N/A
+471,Jack's Hard Cider,Jack's Hard Cider (Hauser Estate...,"Biglerville, PA",Cider,12 oz.,5.10%,N/A
+472,Jai Alai IPA,Cigar City Brewing Company,"Tampa, FL",American IPA,12 oz.,7.50%,70
+473,Jai Alai IPA Aged on White Oak,Cigar City Brewing Company,"Tampa, FL",American IPA,12 oz.,7.50%,70
+474,Jessie's Garage,Revolution Brewing,"Paonia, CO",American Pale Ale (APA),16 oz.,5.60%,N/A
+475,Jockamo IPA,Abita Brewing Company,"Abita Springs, LA",American IPA,12 oz.,6.50%,52
+476,Johan the Barleywine,Sun King Brewing Company,"Indianapolis, IN",English Barleywine,16 oz.,10%,60
+477,Johnny's American IPA,Moab Brewery,"Moab, UT",American IPA,16 oz.,4%,N/A
+478,Jon Boat Coastal Ale,Intuition Ale Works,"Jacksonville, FL",American Blonde Ale,12 oz.,4.50%,20
+479,JosÌ© MartÌ_ American Porter,Cigar City Brewing Company,"Tampa, FL",American Porter,12 oz.,8%,65
+480,Joseph James American Lager,Joseph James Brewing Company,"Henderson, NV",American Adjunct Lager,12 oz.,5.20%,15
+481,Kaleidoscope Collaboration 2012,Devil's Canyon Brewery,"Belmont, CA",American Black Ale,16 oz.,???,N/A
+482,KÌ¦ld Lager (2010),Tallgrass Brewing Company,"Manhattan, KS",German Pilsener,16 oz.,5%,16
+483,Kentucky IPA,Alltech's Lexington Brewing Company,"Lexington, KY",American IPA,16 oz.,???,N/A
+484,Kilt Lifter Scottish-Style Ale,Four Peaks Brewing Company,"Tempe, AZ",Scottish Ale,12 oz.,6%,N/A
+485,Kludde,Brewery Vivant,"Grand Rapids, MI",Belgian Strong Dark Ale,16 oz.,8.50%,N/A
+486,Kodiak Brown Ale,Midnight Sun Brewing Company,"Anchorage, AK",American Brown Ale,12 oz.,5%,24
+487,La Frontera Premium IPA,Big Bend Brewing Company,"Alpine, TX",American IPA,12 oz.,7.80%,N/A
+488,La Perouse White,Maui Brewing Company,"Lahaina, HI",Witbier,12 oz.,5%,12
+489,Lancaster German Style KÌ¦lsch,Lancaster Brewing Company,"Lancaster, PA",KÌ¦lsch,12 oz.,4.80%,28
+490,Lands End Amber Ale,Kannah Creek Brewing Company,"Grand Junction, CO",American Amber / Red Ale,12 oz.,5.70%,28
+491,Lava Lake Wit,Crazy Mountain Brewing Company,"Edwards, CO",Witbier,12 oz.,5.20%,15
+492,Lawnmower Lager,Ellersick Brewing Company (Big E...,"Lynnwood, WA",American Pale Lager,16 oz.,4.80%,N/A
+493,Lawnmower Lager,Caldera Brewing Company,"Ashland, OR",American Adjunct Lager,12 oz.,3.90%,16
+494,Lazy Daze Lager,Rochester Mills Brewing Company,"Rochester, MI",American Adjunct Lager,12 oz.,5.50%,N/A
+495,Le Mort Vivant,Southern Star Brewing Company,"Conroe, TX",BiÌ¬re de Garde,12 oz.,6.90%,23
+496,Leaning Chimney Smoked Porter,Grey Sail Brewing of Rhode Island,"Westerly, RI",American Porter,16 oz.,6%,34
+497,Leroy (2005),Oskar Blues Brewery,"Lyons, CO",American Brown Ale,12 oz.,5.20%,N/A
+498,Lewis & Clark Amber Ale,Lewis and Clark Brewing Company,"Helena, MT",American Amber / Red Ale,12 oz.,5%,N/A
+499,Lift Bridge Brown Ale,Keweenaw Brewing Company,"Houghton, MI",American Brown Ale,12 oz.,???,N/A
+500,Light IPA,Wachusett Brewing Company,"Westminster, MA",American IPA,12 oz.,4%,37
+501,Lily Flagg Milk Stout,Straight to Ale,"Huntsville, AL",Milk / Sweet Stout,12 oz.,5%,30
+502,Liquid Amber Ale,Prescott Brewing Company,"Prescott, AZ",American Amber / Red Ale,12 oz.,???,N/A
+503,Liquid Breadfruit,Maui Brewing Company,"Lahaina, HI",Fruit / Vegetable Beer,12 oz.,8.20%,N/A
+504,Loafin BrÌ_u,Tampa Bay Brewing Company,"Tampa, FL",Altbier,16 oz.,5.50%,N/A
+505,Loki Red Ale,Fearless Brewing Company,"Estacada, OR",American Amber / Red Ale,16 oz.,7.50%,N/A
+506,Long Day Lager,Red Hare Brewing Company,"Marietta, GA",Czech Pilsener,12 oz.,4.90%,N/A
+507,Long Hammer IPA,Redhook Brewery,"Woodinville, WA",American IPA,12 oz.,6.50%,44
+508,Long Hammer IPA,Redhook Brewery,"Woodinville, WA",American IPA,16 oz.,6.50%,44
+509,Long Trail Ale,Long Trail Brewing Company,"Bridgewater Corners, VT",Altbier,12 oz.,4.60%,30
+510,Longboard Island Lager,Kona Brewing Company,"Kona, HI",American Amber / Red Lager,12 oz.,4.60%,18
+511,Longboard Island Lager,Kona Brewing Company,"Kona, HI",American Amber / Red Lager,12 oz.,4.60%,18
+512,Longfin Lager,Ballast Point Brewing Company,"San Diego, CA",Munich Helles Lager,12 oz.,4.60%,N/A
+513,Loose Cannon,Heavy Seas Beer,"Halethorpe, MD",American IPA,12 oz.,7.20%,45
+514,Louie‰Ûªs Demise Ale (2010),Milwaukee Brewing Company,"Milwaukee, WI",American Amber / Red Ale,16 oz.,5.10%,24
+515,Lower De Boom,21st Amendment Brewery,"San Francisco, CA",American Barleywine,8.4 oz.,11.50%,92
+516,Lucky U IPA,Breckenridge Brewery,"Denver, CO",American IPA,12 oz.,6.20%,68
+517,Lumberyard IPA,Lumberyard Brewing Company,"Flagstaff, AZ",American IPA,12 oz.,6.10%,N/A
+518,Lumberyard Red Ale,Lumberyard Brewing Company,"Flagstaff, AZ",American Amber / Red Ale,12 oz.,5.80%,N/A
+519,Mac's Highlander Pale Ale (2000),MacTarnahans Brewing Company,"Portland, OR",American Pale Ale (APA),12 oz.,5%,N/A
+520,Mac's Scottish Style Amber Ale (2000),MacTarnahans Brewing Company,"Portland, OR",American Amber / Red Ale,12 oz.,5.10%,32
+521,Macon History Ale,Macon Beer Company,"Macon, GA",American Brown Ale,12 oz.,5.50%,N/A
+522,Maduro Brown Ale,Cigar City Brewing Company,"Tampa, FL",American Brown Ale,12 oz.,5.50%,25
+523,Maduro Brown Ale,Cigar City Brewing Company,"Tampa, FL",English Brown Ale,12 oz.,5.50%,25
+524,Mama's Little Yella Pils,Oskar Blues Brewery,"Longmont, CO",Czech Pilsener,12 oz.,5.30%,35
+525,Mama's Little Yella Pils,Oskar Blues Brewery,"Longmont, CO",Czech Pilsener,19.2 oz.,5.30%,35
+526,Mana Wheat,Maui Brewing Company,"Lahaina, HI",American Pale Wheat Ale,12 oz.,5.50%,15
+527,Manhattan Gold Lager (1990),The Manhattan Brewing Company,"New York, NY",American Amber / Red Lager,12 oz.,???,N/A
+528,Marble India Pale Ale,Marble Brewery,"Albuquerque, NM",American IPA,12 oz.,6.20%,N/A
+529,Marooned On Hog Island,21st Amendment Brewery,"San Francisco, CA",American Stout,12 oz.,7.90%,N/A
+530,Maxwell's Scottish Ale,Rivertowne Brewing Company,"Export, PA",Scottish Ale,12 oz.,5.10%,N/A
+531,McKinney Eddy Amber Ale,Piney River Brewing Company,"Bucryus, MO",American Amber / Red Ale,16 oz.,5.50%,20
+532,Meat Wave,Half Acre Beer Company,"Chicago, IL",English India Pale Ale (IPA),16 oz.,6%,N/A
+533,MechaHopzilla,New Orleans Lager & Ale Brewing ...,"New Orleans, LA",American Double / Imperial IPA,16 oz.,8.80%,N/A
+534,Mexican Logger,Ska Brewing Company,"Durango, CO",American Pale Lager,12 oz.,4.20%,18
+535,Mickey Finn's Amber Ale,Mickey Finn's Brewery,"Libertyville, IL",American Amber / Red Ale,12 oz.,5.60%,N/A
+536,Midnight Ryder,Indeed Brewing Company,"Minneapolis, MN",American Black Ale,12 oz.,6.50%,80
+537,Midwest Charm Farmhouse Ale,Okoboji Brewing Company,"Spirit Lake, IA",Saison / Farmhouse Ale,16 oz.,6%,29
+538,Milkshake Stout,Rochester Mills Brewing Company,"Rochester, MI",Milk / Sweet Stout,16 oz.,5%,N/A
+539,Miner's Gold,Revolution Brewing,"Paonia, CO",American Blonde Ale,12 oz.,???,N/A
+540,Miner's Gold,Revolution Brewing,"Paonia, CO",American Blonde Ale,16 oz.,5%,N/A
+541,Miner's Gold Hefeweizen,Lewis and Clark Brewing Company,"Helena, MT",Hefeweizen,12 oz.,5%,N/A
+542,Missouri Mule India Pale Ale,Piney River Brewing Company,"Bucryus, MO",American IPA,16 oz.,7%,70
+543,Mistress Winter Wheat,Bonfire Brewing Company,"Eagle, CO",Winter Warmer,12 oz.,6.40%,N/A
+544,Misty Mountain IPA,Back East Brewing Company,"Bloomfield, CT",American IPA,12 oz.,7%,N/A
+545,Mjolnir Imperial IPA,Fearless Brewing Company,"Estacada, OR",American Double / Imperial IPA,16 oz.,6.90%,N/A
+546,Mo's Gose,Armstrong Brewing Company,"South San Francisco, CA",Gose,16 oz.,5.20%,10
+547,Modus Hoperandi,Ska Brewing Company,"Durango, CO",American IPA,12 oz.,6.80%,65
+548,Monk's Blood,21st Amendment Brewery,"San Francisco, CA",Belgian Dark Ale,12 oz.,8.30%,35
+549,Monkey Paw Oatmeal Pale Ale,Monkey Paw Pub & Brewery,"San Diego, CA",American Pale Ale (APA),16 oz.,5.80%,N/A
+550,Monkeynaut IPA,Straight to Ale,"Huntsville, AL",American IPA,12 oz.,7.20%,70
+551,Montana Trout Slayer Ale (2009),Big Sky Brewing Company,"Missoula, MT",American Pale Wheat Ale,12 oz.,4.70%,N/A
+552,Montana Trout Slayer Ale,Big Sky Brewing Company,"Missoula, MT",American Pale Wheat Ale,12 oz.,4.70%,N/A
+553,Moo Thunder Stout,Butternuts Beer and Ale,"Garrattsville, NY",Milk / Sweet Stout,12 oz.,4.90%,N/A
+554,Moose Drool Brown Ale (2009),Big Sky Brewing Company,"Missoula, MT",American Brown Ale,12 oz.,5.30%,N/A
+555,Moose Drool Brown Ale,Big Sky Brewing Company,"Missoula, MT",American Brown Ale,12 oz.,5.30%,N/A
+556,Morning Wood,Big Wood Brewery,"Vadnais Heights, MN",Oatmeal Stout,16 oz.,6%,N/A
+557,Morning Wood Wheat,Pug Ryan's Brewery,"Dillon, CO",American Pale Wheat Ale,12 oz.,???,N/A
+558,Mother Ale,Denali Brewing Company,"Talkeetna, AK",American Blonde Ale,12 oz.,5.60%,46
+559,Mountain Fairy Raspberry Wheat,Eddyline Brewery & Restaurant,"Buena Vista, CO",Fruit / Vegetable Beer,16 oz.,5.50%,N/A
+560,Mountain Livin' Pale Ale,Crazy Mountain Brewing Company,"Edwards, CO",American Pale Ale (APA),12 oz.,6%,N/A
+561,Mr. Pineapple,SanTan Brewing Company,"Chandler, AZ",Hefeweizen,12 oz.,5%,20
+562,Mucho Aloha Hawaiian Pale Ale,Butcher's Brewing,"Carlsbad, CA",American Pale Ale (APA),12 oz.,5.60%,36
+563,Mustang '33,Mustang Brewing Company,"Mustang, OK",American Pale Lager,12 oz.,4%,N/A
+564,Mustang Golden Ale,Mustang Brewing Company,"Mustang, OK",American Blonde Ale,12 oz.,5.30%,10
+565,Mutton Buster,Payette Brewing Company,"Garden City, ID",American Brown Ale,12 oz.,5.50%,25
+566,Mystic Mama IPA,Jackie O's Pub & Brewery,"Athens, OH",American IPA,12 oz.,7%,N/A
+567,Mystical Stout,Wildwood Brewing Company,"Stevensville, MT",Irish Dry Stout,16 oz.,5.40%,N/A
+568,N Street Drive In Double IPA,Blue Blood Brewing Company,"Lincoln, NE",American Double / Imperial IPA,12 oz.,???,N/A
+569,Narragansett Bock,Narragansett Brewing Company,"Providence, RI",Bock,16 oz.,6.50%,32
+570,Narragansett Cream Ale,Narragansett Brewing Company,"Providence, RI",Cream Ale,16 oz.,5%,22
+571,Narragansett Fest Lager,Narragansett Brewing Company,"Providence, RI",MÌ_rzen / Oktoberfest,16 oz.,5.50%,15
+572,Narragansett Porter,Narragansett Brewing Company,"Providence, RI",American Porter,16 oz.,7%,22
+573,Narragansett Summer Ale,Narragansett Brewing Company,"Providence, RI",American Pale Wheat Ale,16 oz.,4.20%,24
+574,Narragansett Summer Ale,Narragansett Brewing Company,"Providence, RI",American Pale Wheat Ale,12 oz.,4.20%,24
+575,Native Amber,COOP Ale Works,"Oklahoma City, OK",American Amber / Red Ale,16 oz.,6.30%,35
+576,Nebraska India Pale Ale,Nebraska Brewing Company,"Papillion, NE",American IPA,12 oz.,6.50%,65
+577,Newburyport Pale Ale,Newburyport Brewing Company,"Newburyport, MA",American Pale Ale (APA),12 oz.,???,N/A
+578,Ninja Porter,Asheville Brewing Company,"Asheville, NC",American Porter,12 oz.,5.30%,26
+579,NOLA Blonde Ale,New Orleans Lager & Ale Brewing ...,"New Orleans, LA",American Blonde Ale,12 oz.,4.90%,N/A
+580,NOLA Brown Ale,New Orleans Lager & Ale Brewing ...,"New Orleans, LA",English Dark Mild Ale,12 oz.,3.90%,N/A
+581,North Fork Lager,Payette Brewing Company,"Garden City, ID",American Pale Lager,12 oz.,4.40%,N/A
+582,Northern Lights Amber Ale,Broken Tooth Brewing Company,"Anchorage, AK",American Amber / Red Ale,12 oz.,5%,15
+583,Northern Lights India Pale Ale,Starr Hill Brewery,"Crozet, VA",American IPA,12 oz.,6.50%,52
+584,November Gale Pale Ale,Keweenaw Brewing Company,"Houghton, MI",American Pale Ale (APA),12 oz.,???,N/A
+585,Number 22 Porter,Big Bend Brewing Company,"Alpine, TX",American Porter,12 oz.,6.40%,N/A
+586,Nut Brown Ale,New South Brewing Company,"Myrtle Beach, SC",English Brown Ale,12 oz.,5.40%,N/A
+587,Nut Sack Imperial Brown Ale,Engine 15 Brewing,"Jacksonville Beach, FL",American Brown Ale,12 oz.,7%,N/A
+588,O'Fallon Wheach,O'Fallon Brewery,"O'Fallon, MO",Fruit / Vegetable Beer,12 oz.,5.10%,7
+589,O-Gii,Milwaukee Brewing Company,"Milwaukee, WI",Witbier,16 oz.,9.20%,N/A
+590,Oaky's Oatmeal Stout,Angry Minnow Brewing Company,"Hayward, WI",Oatmeal Stout,16 oz.,4.70%,N/A
+591,Oasis (2010),Tallgrass Brewing Company,"Manhattan, KS",American Double / Imperial IPA,16 oz.,7.20%,93
+592,Oasis,Tallgrass Brewing Company,"Manhattan, KS",Extra Special / Strong Bitter (ESB),16 oz.,7.20%,93
+593,Oatmeal PSA,Airways Brewing Company,"Kent, WA",American Pale Ale (APA),16 oz.,5%,N/A
+594,OB-1 Organic Ale,Snake River Brewing Company,"Jackson, WY",English Brown Ale,12 oz.,5%,22
+595,Occidental Altbier,Occidental Brewing Company,"Portland, OR",Altbier,16 oz.,5%,N/A
+596,Occidental Dunkel,Occidental Brewing Company,"Portland, OR",Dunkelweizen,16 oz.,5.10%,N/A
+597,Occidental KÌ¦lsch,Occidental Brewing Company,"Portland, OR",KÌ¦lsch,16 oz.,4.50%,N/A
+598,Odyssey Imperial IPA,Sly Fox Brewing Company,"Phoenixville, PA",American Double / Imperial IPA,12 oz.,8.40%,90
+599,Oktoberfest,Great River Brewery,"Davenport, IA",MÌ_rzen / Oktoberfest,16 oz.,5.90%,25
+600,Oktoberfest Lager,Sly Fox Brewing Company,"Phoenixville, PA",MÌ_rzen / Oktoberfest,12 oz.,5.80%,25
+601,Oktoberfest Revolution,Revolution Brewing Company,"Chicago, IL",MÌ_rzen / Oktoberfest,12 oz.,5.70%,25
+602,Ol' Factory Pils,Two Roads Brewing Company,"Stratford, CT",German Pilsener,12 oz.,5%,N/A
+603,Old Chub,Oskar Blues Brewery,"Longmont, CO",Scottish Ale,12 oz.,8%,35
+604,Old Chub (2003),Oskar Blues Brewery,"Lyons, CO",Scottish Ale,12 oz.,8%,35
+605,Old Chub (2004),Oskar Blues Brewery,"Lyons, CO",Scottish Ale,12 oz.,8%,35
+606,Old Chub (2008),Oskar Blues Brewery,"Lyons, CO",Scottish Ale,12 oz.,8%,35
+607,Old Devil's Tooth,Sockeye Brewing Company,"Boise, ID",American Barleywine,12 oz.,10.30%,100
+608,Old Elephant Foot IPA,Tampa Bay Brewing Company,"Tampa, FL",American IPA,16 oz.,7%,80
+609,Old Grogham Imperial India Pale Ale,Natian Brewery,"Portland, OR",American Double / Imperial IPA,16 oz.,8.50%,86
+610,Old Potentate,Southern Star Brewing Company,"Conroe, TX",Old Ale,12 oz.,7.20%,40
+611,Old Red Beard Amber Ale,Astoria Brewing Company,"Astoria, OR",American Amber / Red Ale,12 oz.,6%,35
+612,Old Tom Porter,Piney River Brewing Company,"Bucryus, MO",American Porter,16 oz.,5.50%,25
+613,Old Town Ale,Pateros Creek Brewing Company,"Fort Collins, CO",KÌ¦lsch,16 oz.,4.50%,22
+614,Old Wylie's IPA,Rivertowne Brewing Company,"Export, PA",American IPA,12 oz.,6.20%,N/A
+615,Olde Ore Dock Scottish Ale,Keweenaw Brewing Company,"Houghton, MI",Scottish Ale,12 oz.,???,N/A
+616,Oliver Beanblossom Peach Hard Cider,Beanblossom Hard Ciders (Oliver ...,"Bloomington, IN",Cider,250 ml,8%,N/A
+617,On the Wings of Armageddon,DC Brau Brewing Company,"Washington, DC",American Double / Imperial IPA,12 oz.,9.20%,115
+618,On-On Ale (2008),Arctic Craft Brewery,"Colorado Springs, CO",American Pale Ale (APA),12 oz.,5.20%,N/A
+619,One Hit Wonder,Oskar Blues Brewery,"Longmont, CO",American Double / Imperial IPA,12 oz.,9%,60
+620,Orange Grove Wheat Ale,Brindle Dog Brewing Company,"Tampa Bay, FL",American Pale Wheat Ale,12 oz.,???,N/A
+621,Orange Wheat,Hangar 24 Craft Brewery,"Redlands, CA",Fruit / Vegetable Beer,12 oz.,4.60%,17
+622,Oregon Trail Unfiltered Raspberry Wheat,High Noon Saloon And Brewery,"Leavenworth, KS",Fruit / Vegetable Beer,12 oz.,4.50%,N/A
+623,Organic Baba Black Lager,Uinta Brewing Company,"Salt Lake City, UT",Schwarzbier,12 oz.,4%,32
+624,Original Orange Blossom Ale (Current),Buckbean Brewing Company,"Reno, NV",Herbed / Spiced Beer,16 oz.,5.80%,35
+625,Orignal Blend,Downeast Cider House,"Waterville, ME",Cider,12 oz.,5.10%,N/A
+626,Osiris Pale Ale,Sun King Brewing Company,"Indianapolis, IN",American Pale Ale (APA),16 oz.,5.60%,50
+627,oSKAr the G'Rauch,Oskar Blues Brewery,"Longmont, CO",American IPA,16 oz.,8.50%,N/A
+628,oSKAr the G'Rauch,Oskar Blues Brewery,"Longmont, CO",American IPA,19.2 oz.,8.50%,N/A
+629,Outlaw IPA,Two Brothers Brewing Company,"Warrenville, IL",American IPA,12 oz.,6.50%,N/A
+630,Outlaw IPA,Payette Brewing Company,"Garden City, ID",American IPA,12 oz.,6.20%,65
+631,Over Ale,Half Acre Beer Company,"Chicago, IL",American Brown Ale,16 oz.,6%,N/A
+632,Over Rated West Coast IPA,Surly Brewing Company,"Brooklyn Center, MN",American IPA,16 oz.,???,N/A
+633,Over the Rail Pale Ale,Pug Ryan's Brewery,"Dillon, CO",American Pale Ale (APA),12 oz.,???,N/A
+634,Overbite IPA,Old Forge Brewing Company,"Danville, PA",American IPA,16 oz.,7.50%,N/A
+635,Owney Irish Style Red Ale,Great River Brewery,"Davenport, IA",Irish Red Ale,16 oz.,5%,30
+636,Ozzy,The Brewer's Art,"Baltimore, MD",Belgian Pale Ale,12 oz.,7%,N/A
+637,P-51 Porter,Wingman Brewers,"Tacoma, WA",American Porter,16 oz.,8%,31
+638,Pablo Beach Pale Ale,Green Room Brewing,"Jacksonville, FL",American Pale Ale (APA),12 oz.,5%,30
+639,Paddy Pale Ale,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",American Pale Ale (APA),12 oz.,5.40%,N/A
+640,Pako‰Ûªs EyePA,Snake River Brewing Company,"Jackson, WY",American IPA,12 oz.,6.80%,60
+641,Pale Dog,Hops & Grain Brewery,"Austin, TX",American Pale Ale (APA),12 oz.,6%,50
+642,Pallavicini Pilsner,Pug Ryan's Brewery,"Dillon, CO",German Pilsener,12 oz.,???,N/A
+643,Pamola Xtra Pale Ale,Baxter Brewing Company,"Lewiston, ME",American Pale Ale (APA),12 oz.,4.90%,28
+644,Panorama Wheat Ale,Two Beers Brewing Company,"Seattle, WA",American Pale Wheat Ale,12 oz.,4.60%,N/A
+645,Payette Pale Ale,Payette Brewing Company,"Garden City, ID",American Pale Ale (APA),12 oz.,4.80%,35
+646,Peacemaker,Austin Beerworks,"Austin, TX",American Pale Ale (APA),12 oz.,5.10%,N/A
+647,Pearl-Snap,Austin Beerworks,"Austin, TX",German Pilsener,12 oz.,5.30%,N/A
+648,Penn Quarter Porter,DC Brau Brewing Company,"Washington, DC",American Porter,12 oz.,5.50%,N/A
+649,People's Pale Ale,Intuition Ale Works,"Jacksonville, FL",American Pale Ale (APA),12 oz.,5.30%,28
+650,Perfect Tin Amber,Tin Roof Brewing Company,"Baton Rouge, LA",American Amber / Red Ale,12 oz.,4.50%,28
+651,Perrin Golden Ale,Perrin Brewing Company,"Comstock Park, MI",American Blonde Ale,12 oz.,???,N/A
+652,Perrin IPA,Perrin Brewing Company,"Comstock Park, MI",American IPA,12 oz.,???,N/A
+653,Perrin Pale Ale,Perrin Brewing Company,"Comstock Park, MI",American Pale Ale (APA),12 oz.,???,N/A
+654,Perrin Porter,Perrin Brewing Company,"Comstock Park, MI",American Porter,12 oz.,???,N/A
+655,Persnickety Pale,Two Beers Brewing Company,"Seattle, WA",American Pale Ale (APA),12 oz.,5.70%,36
+656,Pete's ESP Lager (1998),Pete's Brewing Company,"San Antonio, TX",American Pale Lager,12 oz.,5.10%,N/A
+657,Pete's Wicked Bohemian Pilsner (1997),Pete's Brewing Company,"San Antonio, TX",Czech Pilsener,12 oz.,4.90%,N/A
+658,Pete's Wicked Pale Ale (1997),Pete's Brewing Company,"San Antonio, TX",American Pale Ale (APA),12 oz.,???,N/A
+659,Pete's Wicked Summer Brew (1996),Pete's Brewing Company,"San Antonio, TX",American Pale Wheat Ale,12 oz.,4.70%,N/A
+660,Pete's Wicked Summer Brew (1997),Pete's Brewing Company,"San Antonio, TX",American Pale Wheat Ale,12 oz.,4.70%,N/A
+661,Pete's Wicked Summer Brew (2002),Pete's Brewing Company,"San Antonio, TX",American Pale Wheat Ale,12 oz.,4.70%,N/A
+662,Pete's Wicked Summer Brew (1995),Pete's Brewing Company,"San Antonio, TX",American Pale Wheat Ale,12 oz.,4.70%,N/A
+663,Phantom Punch Winter Stout,Baxter Brewing Company,"Lewiston, ME",Foreign / Export Stout,12 oz.,6.80%,N/A
+664,Phat Chance,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",American Blonde Ale,12 oz.,5.60%,N/A
+665,Phoenix Pale Ale,Sly Fox Brewing Company,"Phoenixville, PA",American Pale Ale (APA),12 oz.,5.10%,40
+666,Pick Axe Blonde Ale,Keweenaw Brewing Company,"Houghton, MI",American Blonde Ale,12 oz.,???,N/A
+667,Pikeland Pils,Sly Fox Brewing Company,"Phoenixville, PA",German Pilsener,12 oz.,4.90%,44
+668,Pile O'Dirt Porter,Crow Peak Brewing Company,"Spearfish, SD",American Porter,12 oz.,6.90%,N/A
+669,Pilsner Ukiah,Ukiah Brewing Company,"Ukiah, CA",German Pilsener,12 oz.,5.50%,N/A
+670,Pine Belt Pale Ale,Southern Star Brewing Company,"Conroe, TX",American Pale Ale (APA),16 oz.,6.50%,45
+671,Plow Horse Belgian Style Imperial Stout,Brewery Vivant,"Grand Rapids, MI",American Double / Imperial Stout,16 oz.,9.50%,N/A
+672,Plum Island Belgian White,Newburyport Brewing Company,"Newburyport, MA",Witbier,12 oz.,???,N/A
+673,Point Amber Classic,Stevens Point Brewery,"Stevens Point, WI",American Amber / Red Lager,12 oz.,4.70%,14
+674,Point Cascade Pale Ale,Stevens Point Brewery,"Stevens Point, WI",American Pale Ale (APA),12 oz.,5.40%,33
+675,Point Nude Beach Summer Wheat (2010),Stevens Point Brewery,"Stevens Point, WI",American Pale Wheat Ale,12 oz.,5%,7
+676,Point Nude Beach Summer Wheat (2011),Stevens Point Brewery,"Stevens Point, WI",American Pale Wheat Ale,12 oz.,5%,7
+677,Point Nude Beach Summer Wheat,Stevens Point Brewery,"Stevens Point, WI",American Pale Wheat Ale,12 oz.,5%,7
+678,Point Oktoberfest,Stevens Point Brewery,"Stevens Point, WI",MÌ_rzen / Oktoberfest,12 oz.,5.70%,15
+679,Point Special Lager,Stevens Point Brewery,"Stevens Point, WI",American Adjunct Lager,12 oz.,4.70%,9
+680,Point the Way IPA,Golden Road Brewing,"Los Angeles, CA",American IPA,16 oz.,5.20%,N/A
+681,Polar Pale Ale,Broken Tooth Brewing Company,"Anchorage, AK",American Pale Ale (APA),12 oz.,5.20%,17
+682,Poleeko Gold Pale Ale (2009),Anderson Valley Brewing Company,"Boonville, CA",American Pale Ale (APA),12 oz.,5.50%,28
+683,Pomegranate Wheat (2008),Matt Brewing Company,"Utica, NY",Fruit / Vegetable Beer,12 oz.,4.70%,N/A
+684,Ponderosa IPA,Prescott Brewing Company,"Prescott, AZ",American IPA,12 oz.,???,N/A
+685,Poop Deck Porter,Astoria Brewing Company,"Astoria, OR",American Porter,12 oz.,6.20%,35
+686,Porkslap Pale Ale,Butternuts Beer and Ale,"Garrattsville, NY",American Pale Ale (APA),12 oz.,4.30%,N/A
+687,Power House Porter,Sockeye Brewing Company,"Boise, ID",American Porter,12 oz.,5.70%,N/A
+688,Pre Flight Pilsner,Airways Brewing Company,"Kent, WA",American Pilsner,16 oz.,5.20%,33
+689,Preservation IPA,Tonka Beer Company,"Minnetonka, MN",American IPA,16 oz.,6.80%,N/A
+690,PRO-AM (2012),Southern Star Brewing Company,"Conroe, TX",American Double / Imperial IPA,12 oz.,10%,100
+691,Pschopathy,Madtree Brewing Company,"Cincinnati, OH",American IPA,12 oz.,6.90%,N/A
+692,Pumpkan,Wachusett Brewing Company,"Westminster, MA",Pumpkin Ale,12 oz.,5.20%,20
+693,Pumpkin Patch,Eddyline Brewery & Restaurant,"Buena Vista, CO",Pumpkin Ale,16 oz.,5%,N/A
+694,Pumpkinhead Ale,Shipyard Brewing Company,"Portland, ME",Pumpkin Ale,12 oz.,4.70%,N/A
+695,Purple Haze,Abita Brewing Company,"Abita Springs, LA",Fruit / Vegetable Beer,12 oz.,4.20%,13
+696,Pyramid Hefeweizen,Pyramid Breweries,"Seattle, WA",Hefeweizen,12 oz.,5.20%,18
+697,Quaff India Style Session Ale,Fearless Brewing Company,"Estacada, OR",American IPA,16 oz.,5.10%,N/A
+698,Quick Wit Belgianesque Ale,Fort George Brewery,"Astoria, OR",Witbier,16 oz.,5.20%,N/A
+699,R 5 Lager,Doylestown Brewing Company,"Doylestown, PA",American Amber / Red Lager,12 oz.,4.60%,N/A
+700,Rail Slide Imperial Spiced Ale,SanTan Brewing Company,"Chandler, AZ",Herbed / Spiced Beer,12 oz.,8.10%,N/A
+701,Rail Yard Ale (2009),Wynkoop Brewing Company,"Denver, CO",American Amber / Red Ale,12 oz.,5.20%,N/A
+702,Rail Yard Ale,Wynkoop Brewing Company,"Denver, CO",American Amber / Red Ale,12 oz.,5.20%,N/A
+703,Ranger IPA,New Belgium Brewing Company,"Fort Collins, CO",American IPA,12 oz.,6.50%,70
+704,Ranger IPA,New Belgium Brewing Company,"Fort Collins, CO",American IPA,16 oz.,6.50%,70
+705,Rat City Blonde,Big Al Brewing,"Seattle, WA",American Blonde Ale,16 oz.,4%,22
+706,Real McCoy Amber Ale (Current),Mammoth Brewing Company,"Mammoth Lakes, CA",American Amber / Red Ale,12 oz.,4.50%,N/A
+707,Recreation Ale,Terrapin Brewing Company,"Athens, GA",American Pale Ale (APA),12 oz.,4.50%,N/A
+708,Red Jacket Amber Ale,Keweenaw Brewing Company,"Houghton, MI",American Amber / Red Ale,12 oz.,???,N/A
+709,Red Mountain Ale,Silverton Brewery,"Silverton, CO",American Amber / Red Ale,12 oz.,6%,N/A
+710,Redband Stout,Great River Brewery,"Davenport, IA",American Stout,16 oz.,6%,36
+711,Resin,Sixpoint Craft Ales,"Brooklyn, NY",American Double / Imperial IPA,12 oz.,9.10%,103
+712,Resurrection,The Brewer's Art,"Baltimore, MD",Dubbel,12 oz.,7%,N/A
+713,Rich Man's IIPA,Monkey Paw Pub & Brewery,"San Diego, CA",American Double / Imperial IPA,16 oz.,8.70%,N/A
+714,Ride Again Pale Ale,Lucette Brewing Company,"Menominie, WI",American Pale Ale (APA),16 oz.,5.20%,N/A
+715,Righteous Ale,Sixpoint Craft Ales,"Brooklyn, NY",Rye Beer,16 oz.,6.30%,57
+716,Ring of Dingle,Sun King Brewing Company,"Indianapolis, IN",Irish Dry Stout,16 oz.,7.10%,27
+717,Rise-Up Red,Hopworks Urban Brewery,"Portland, OR",American Amber / Red Ale,16 oz.,5.80%,60
+718,River Pig Pale Ale,Angry Minnow Brewing Company,"Hayward, WI",American Pale Ale (APA),16 oz.,5.40%,N/A
+719,River Runners Pale Ale,Eddyline Brewery & Restaurant,"Buena Vista, CO",American Pale Ale (APA),16 oz.,6%,N/A
+720,Rivet Irish Red Ale,Tin Man Brewing Company,"Evansville, IN",Irish Red Ale,16 oz.,5.10%,22
+721,Road 2 Ruin Double IPA,Two Roads Brewing Company,"Stratford, CT",American Double / Imperial IPA,12 oz.,7.20%,N/A
+722,Rochester Red Ale,Rochester Mills Brewing Company,"Rochester, MI",American Amber / Red Ale,16 oz.,5.90%,N/A
+723,Rocket Bike American Lager,Moab Brewery,"Moab, UT",California Common / Steam Beer,16 oz.,4%,N/A
+724,Rocket Girl,Asheville Brewing Company,"Asheville, NC",KÌ¦lsch,12 oz.,3.20%,27
+725,Rocky Mountain Oyster Stout,Wynkoop Brewing Company,"Denver, CO",American Stout,12 oz.,7.50%,N/A
+726,Rodeo Clown Double IPA,Karbach Brewing Company,"Houston, TX",American Double / Imperial IPA,12 oz.,9.50%,85
+727,Roler Bock (Current),Buckbean Brewing Company,"Reno, NV",Maibock / Helles Bock,16 oz.,???,N/A
+728,Roller Dam Red Ale (2010),Great River Brewery,"Davenport, IA",Irish Red Ale,16 oz.,5.40%,30
+729,Roller Dam Red Ale,Great River Brewery,"Davenport, IA",Irish Red Ale,16 oz.,5.40%,30
+730,Rosa Hibiscus Ale,Revolution Brewing Company,"Chicago, IL",Herbed / Spiced Beer,12 oz.,5.80%,15
+731,Royal Weisse Ale,Sly Fox Brewing Company,"Phoenixville, PA",Hefeweizen,12 oz.,5.60%,11
+732,RPM IPA,Boneyard Beer,"Bend, OR",American IPA,16 oz.,7%,75
+733,RT Lager,Rivertowne Brewing Company,"Export, PA",American Amber / Red Lager,12 oz.,5.50%,N/A
+734,Rude Parrot IPA,7 Seas Brewing Company,"Gig Harbor, WA",American IPA,16 oz.,5.90%,75
+735,Rumspringa Golden Bock,Lancaster Brewing Company,"Lancaster, PA",Maibock / Helles Bock,12 oz.,6.60%,30
+736,Rusty Nail Pale Ale,Crooked Fence Brewing Company,"Garden City, ID",American Pale Ale (APA),12 oz.,5.60%,N/A
+737,Rye Pils Session Lager,Deep Ellum Brewing Company,"Dallas, TX",German Pilsener,12 oz.,4.60%,N/A
+738,Rye Porter,Revolution Brewing,"Paonia, CO",American Porter,16 oz.,???,N/A
+739,Ryeteous Rye IPA,Renegade Brewing Company,"Denver, CO",American IPA,16 oz.,7%,100
+740,Samuel Adams Summer Ale,Boston Beer Company,"Boston, MA",American Pale Wheat Ale,12 oz.,5.30%,7
+741,Sankaty Light Lager,Cisco Brewers,"Nantucket, MA",Light Lager,12 oz.,3.80%,N/A
+742,Santa Fe Irish Red Ale,Santa Fe Brewing Company,"Santa Fe, NM",Irish Red Ale,12 oz.,4.50%,N/A
+743,Santa Fe Oktoberfest,Santa Fe Brewing Company,"Santa Fe, NM",MÌ_rzen / Oktoberfest,12 oz.,???,N/A
+744,SanTan HefeWeizen (2010),SanTan Brewing Company,"Chandler, AZ",Hefeweizen,12 oz.,5%,15
+745,SanTan HefeWeizen,SanTan Brewing Company,"Chandler, AZ",Hefeweizen,12 oz.,5%,15
+746,Saranac Adirondack Light (2002),Matt Brewing Company,"Utica, NY",Light Lager,12 oz.,4.50%,N/A
+747,Saranac Golden Pilsener (2003),Matt Brewing Company,"Utica, NY",German Pilsener,12 oz.,5.10%,N/A
+748,Saranac Pale Ale (12 oz.),Matt Brewing Company,"Utica, NY",English Pale Ale,12 oz.,5.50%,N/A
+749,Saranac Pale Ale (16 oz.),Matt Brewing Company,"Utica, NY",English Pale Ale,16 oz.,5.50%,N/A
+750,Saranac Pumpkin Ale,Matt Brewing Company,"Utica, NY",Pumpkin Ale,12 oz.,5.40%,N/A
+751,Saranac Summer Ale (2011),Matt Brewing Company,"Utica, NY",American Pale Wheat Ale,12 oz.,4.70%,N/A
+752,Saranac Traditional Lager (2000),Matt Brewing Company,"Utica, NY",American Pale Lager,12 oz.,4.80%,N/A
+753,Saranac White IPA,Matt Brewing Company,"Utica, NY",American IPA,12 oz.,6%,N/A
+754,Scape Goat Pale Ale,Big Sky Brewing Company,"Missoula, MT",English Pale Ale,12 oz.,4.70%,N/A
+755,Schlafly American Brown,Schlafly Brewing Company,"Saint Louis, MO",American Brown Ale,12 oz.,5%,N/A
+756,Schlafly Hefeweizen,Schlafly Brewing Company,"Saint Louis, MO",Hefeweizen,12 oz.,4.10%,16
+757,Schlafly IPA,Schlafly Brewing Company,"Saint Louis, MO",American IPA,12 oz.,4.50%,N/A
+758,Schlafly Summer Lager,Schlafly Brewing Company,"Saint Louis, MO",Munich Helles Lager,12 oz.,4.50%,17
+759,Scotty K NA,Uncommon Brewers,"Santa Cruz, CA",Low Alcohol Beer,16 oz.,0.10%,N/A
+760,Sculpin IPA,Ballast Point Brewing Company,"San Diego, CA",American IPA,12 oz.,7%,70
+761,Sea Dog Wild Blueberry Wheat Ale,Sea Dog Brewing Company,"Portland, ME",Fruit / Vegetable Beer,12 oz.,4.70%,N/A
+762,Sea Hag IPA (Current),New England Brewing Company,"Woodbridge, CT",American IPA,12 oz.,6.20%,N/A
+763,Sea Hag IPA,New England Brewing Company,"Woodbridge, CT",American IPA,12 oz.,6.20%,N/A
+764,Second Wind Pale Ale,Mother Earth Brewing Company,"Kinston, NC",American Pale Ale (APA),12 oz.,5%,N/A
+765,Secret Stache Stout,Finch's Beer Company,"Chicago, IL",American Stout,16 oz.,5.30%,N/A
+766,Select #32 Stout,Okoboji Brewing Company,"Spirit Lake, IA",American Stout,16 oz.,5.70%,26
+767,Session '33 (2011),Mustang Brewing Company,"Mustang, OK",American Pale Lager,12 oz.,4%,N/A
+768,Sex Panther,SanTan Brewing Company,"Chandler, AZ",American Porter,12 oz.,6.90%,20
+769,Shenanigans Summer Ale,Indeed Brewing Company,"Minneapolis, MN",American Pale Wheat Ale,12 oz.,4.60%,27
+770,Shift,New Belgium Brewing Company,"Fort Collins, CO",American Pale Lager,16 oz.,5%,29
+771,Shift,New Belgium Brewing Company,"Fort Collins, CO",American Pale Lager,12 oz.,5%,29
+772,Shipyard Export,Shipyard Brewing Company,"Portland, ME",American Blonde Ale,12 oz.,5.10%,N/A
+773,Shipyard Summer Ale,Shipyard Brewing Company,"Portland, ME",American Pale Wheat Ale,12 oz.,5.10%,N/A
+774,Shiva IPA,Asheville Brewing Company,"Asheville, NC",American IPA,12 oz.,6%,69
+775,Siamese twin,Uncommon Brewers,"Santa Cruz, CA",Dubbel,16 oz.,8.50%,N/A
+776,Side Kick KÌ¦lsch,Peace Tree Brewing Company,"Knoxville, IA",KÌ¦lsch,12 oz.,5%,N/A
+777,Sidekick Extra Pale Ale,Two Brothers Brewing Company,"Warrenville, IL",American Pale Ale (APA),12 oz.,5.10%,36
+778,Sierra Nevada Pale Ale,Sierra Nevada Brewing Company,"Chico, CA",American Pale Ale (APA),12 oz.,5.60%,37
+779,Silverback Pale Ale,Wynkoop Brewing Company,"Denver, CO",American Pale Ale (APA),12 oz.,5.50%,40
+780,Single Engine Red,Denali Brewing Company,"Talkeetna, AK",Irish Red Ale,12 oz.,0.80%,46
+781,Skilak Scottish Ale,Kenai River Brewing Company,"Soldotna, AK",Scottish Ale,12 oz.,5.80%,N/A
+782,Sky Blue Golden Ale,Carolina Brewery,"Pittsboro, NC",KÌ¦lsch,12 oz.,5.10%,N/A
+783,Sky High Rye,Arcadia Brewing Company,"Battle Creek, MI",Rye Beer,12 oz.,6%,N/A
+784,Sly Fox Christmas Ale,Sly Fox Brewing Company,"Phoenixville, PA",Winter Warmer,12 oz.,5.50%,16
+785,Snaggletooth Double Pale Ale,Dolores River Brewery,"Dolores, CO",American Double / Imperial IPA,16 oz.,???,N/A
+786,Snake Dog IPA,Flying Dog Brewery,"Frederick, MD",American IPA,12 oz.,7.10%,60
+787,Snake Handler Double IPA,Good People Brewing Company,"Birmingham, AL",American Double / Imperial IPA,12 oz.,9.30%,103
+788,Snake River Lager,Snake River Brewing Company,"Jackson, WY",Vienna Lager,12 oz.,5%,18
+789,Snake River Pale Ale,Snake River Brewing Company,"Jackson, WY",American Pale Ale (APA),12 oz.,5.20%,32
+790,Snapperhead IPA,Butternuts Beer and Ale,"Garrattsville, NY",American IPA,12 oz.,6.80%,N/A
+791,Snowshoe White Ale,Midnight Sun Brewing Company,"Anchorage, AK",Witbier,12 oz.,4.80%,12
+792,Sobrehumano Palena'ole,Maui Brewing Company,"Lahaina, HI",American Amber / Red Ale,12 oz.,6%,24
+793,Sockeye Red IPA,Midnight Sun Brewing Company,"Anchorage, AK",American IPA,12 oz.,5.70%,70
+794,SoDo Brown Ale,Two Beers Brewing Company,"Seattle, WA",American Brown Ale,12 oz.,5.40%,20
+795,Solitude,Brewery Vivant,"Grand Rapids, MI",Belgian Pale Ale,16 oz.,6%,N/A
+796,South Ridge Amber Ale,Crystal Springs Brewing Company,"Boulder, CO",American Amber / Red Ale,16 oz.,6%,31
+797,Special Amber,Sprecher Brewing Company,"Glendale, WI",Vienna Lager,12 oz.,5%,22
+798,Special Amber,Sprecher Brewing Company,"Glendale, WI",Vienna Lager,12 oz.,5%,22
+799,Special Edition: Allies Win The War!,21st Amendment Brewery,"San Francisco, CA",English Strong Ale,12 oz.,8.50%,52
+800,Standing Wave Pale Ale,Kannah Creek Brewing Company,"Grand Junction, CO",American Pale Ale (APA),12 oz.,5.50%,50
+801,Starr Pils,Starr Hill Brewery,"Crozet, VA",German Pilsener,12 oz.,4.20%,20
+802,Steam Engine Lager,Steamworks Brewing Company,"Durango, CO",American Amber / Red Lager,12 oz.,5.70%,25
+803,Stimulator Pale Ale,Pateros Creek Brewing Company,"Fort Collins, CO",American Pale Ale (APA),16 oz.,5.30%,48
+804,Stout Ol' Friend,Revolution Brewing,"Paonia, CO",American Stout,16 oz.,6.40%,N/A
+805,Stowaway IPA,Baxter Brewing Company,"Lewiston, ME",American IPA,12 oz.,6.90%,69
+806,Summer Honey,Big Sky Brewing Company,"Missoula, MT",American Blonde Ale,12 oz.,4.70%,N/A
+807,Summer of Lager,Cisco Brewers,"Nantucket, MA",Munich Helles Lager,12 oz.,6.20%,N/A
+808,Summer Solstice Cerveza Crema,Anderson Valley Brewing Company,"Boonville, CA",Cream Ale,12 oz.,5.60%,4
+809,Summer Solstice Cerveza Crema (2009),Anderson Valley Brewing Company,"Boonville, CA",Cream Ale,12 oz.,5.60%,4
+810,SummerBright Ale,Breckenridge Brewery,"Denver, CO",American Pale Wheat Ale,12 oz.,4.50%,15
+811,Summertime Ale,Crystal Springs Brewing Company,"Boulder, CO",KÌ¦lsch,16 oz.,5.20%,23
+812,Sun King Oktoberfest (2011),Sun King Brewing Company,"Indianapolis, IN",MÌ_rzen / Oktoberfest,16 oz.,5.50%,23
+813,Sun King Oktoberfest,Sun King Brewing Company,"Indianapolis, IN",MÌ_rzen / Oktoberfest,16 oz.,5.50%,23
+814,Sunbru KÌ¦lsch,Four Peaks Brewing Company,"Tempe, AZ",KÌ¦lsch,12 oz.,5.20%,N/A
+815,Sunken Island IPA,Kenai River Brewing Company,"Soldotna, AK",American IPA,12 oz.,6.80%,N/A
+816,Sunlight Cream Ale,Sun King Brewing Company,"Indianapolis, IN",Cream Ale,16 oz.,5.30%,20
+817,Sunny Haze,Mother Earth Brewing Company,"Kinston, NC",Hefeweizen,12 oz.,5%,N/A
+818,Sunrise Oatmeal Pale Ale,Fort George Brewery,"Astoria, OR",American Pale Ale (APA),16 oz.,5.50%,N/A
+819,Sunshine Wheat Beer,New Belgium Brewing Company,"Fort Collins, CO",American Pale Wheat Ale,12 oz.,4.80%,N/A
+820,Sunsplash Golden Ale (2004),Stone Coast Brewing Company,"Portland, ME",American Blonde Ale,12 oz.,4.50%,N/A
+821,Supper Club Lager,Capital Brewery,"Middleton, WI",American Pale Lager,12 oz.,???,N/A
+822,SurlyFest,Surly Brewing Company,"Brooklyn Center, MN",Rye Beer,16 oz.,5.50%,34
+823,Suzy B Blonde Ale,Southern Prohibition Brewing Com...,"Hattiesburg, MS",American Blonde Ale,16 oz.,???,N/A
+824,Sweet Action,Sixpoint Craft Ales,"Brooklyn, NY",Cream Ale,16 oz.,5.20%,34
+825,Sweet As Pacific Ale,Good Life Brewing Company,"Bend, OR",American Pale Wheat Ale,12 oz.,6%,18
+826,Sweet Georgia Brown,Monkey Paw Pub & Brewery,"San Diego, CA",American Brown Ale,16 oz.,5.40%,N/A
+827,Sympathy for the Lager,Karbach Brewing Company,"Houston, TX",American Amber / Red Lager,12 oz.,4.90%,45
+828,T-6 Red Ale (2004),Warbird Brewing Company,"Fort Wayne, IN",American Amber / Red Ale,12 oz.,4.70%,N/A
+829,T-Rail Pale Ale,Old Forge Brewing Company,"Danville, PA",American Pale Ale (APA),16 oz.,5.50%,N/A
+830,TailGate Hefeweizen,TailGate Beer,"San Diego, CA",Hefeweizen,12 oz.,4.90%,28
+831,TailGate Hefeweizen,TailGate Beer,"San Diego, CA",Hefeweizen,24 oz.,4.90%,28
+832,TailGate IPA,TailGate Beer,"San Diego, CA",American IPA,12 oz.,5%,44
+833,TailGate IPA,TailGate Beer,"San Diego, CA",American IPA,24 oz.,5%,44
+834,TailGate Saison,TailGate Beer,"San Diego, CA",Saison / Farmhouse Ale,12 oz.,5%,N/A
+835,Tallgrass Ale,Tallgrass Brewing Company,"Manhattan, KS",American Brown Ale,16 oz.,4.40%,22
+836,Tallgrass IPA,Tallgrass Brewing Company,"Manhattan, KS",American IPA,16 oz.,6.30%,60
+837,Tallgrass Pub Ale,Tallgrass Brewing Company,"Manhattan, KS",American Brown Ale,16 oz.,4.40%,12
+838,Tampa Pale Ale,Brindle Dog Brewing Company,"Tampa Bay, FL",American Pale Ale (APA),12 oz.,???,N/A
+839,Tart Side of the Moon,Brewery Vivant,"Grand Rapids, MI",Belgian Dark Ale,16 oz.,9.80%,N/A
+840,Tejas Lager,Big Bend Brewing Company,"Alpine, TX",Czech Pilsener,12 oz.,4.70%,N/A
+841,Tempter IPA,Telluride Brewing Company,"Telluride, CO",American IPA,12 oz.,6.40%,N/A
+842,Ten Fidy Imperial Stout,Oskar Blues Brewery,"Longmont, CO",Russian Imperial Stout,12 oz.,10.50%,98
+843,Ten Fidy Imperial Stout (2007),Oskar Blues Brewery,"Lyons, CO",Russian Imperial Stout,12 oz.,10.50%,98
+844,Ten Fidy Imperial Stout (2008),Oskar Blues Brewery,"Lyons, CO",Russian Imperial Stout,12 oz.,9.50%,98
+845,Tent Pole Vanilla Porter,Bonfire Brewing Company,"Eagle, CO",American Porter,16 oz.,6.10%,N/A
+846,Terlingua Gold,Big Bend Brewing Company,"Alpine, TX",American Blonde Ale,12 oz.,6%,N/A
+847,Testudo,Two Brothers Brewing Company,"Warrenville, IL",BiÌ¬re de Garde,12 oz.,4.50%,N/A
+848,The Captain,Ruhstaller Beer Company,"Sacramento, CA",American Black Ale,16 oz.,7.30%,55
+849,The Citizen,DC Brau Brewing Company,"Washington, DC",Belgian Pale Ale,12 oz.,7%,N/A
+850,The Corruption,DC Brau Brewing Company,"Washington, DC",American IPA,12 oz.,6.50%,80
+851,The Crisp,Sixpoint Craft Ales,"Brooklyn, NY",German Pilsener,16 oz.,5.40%,N/A
+852,The Deuce,Oskar Blues Brewery,"Longmont, CO",American Brown Ale,16 oz. Alumi-Tekå¨,7%,N/A
+853,The Deuce,Sun King Brewing Company,"Indianapolis, IN",American Brown Ale,16 oz. Alumi-Tekå¨,7%,N/A
+854,The Farmer's Daughter,Lucette Brewing Company,"Menominie, WI",American Blonde Ale,16 oz.,4.80%,N/A
+855,The Hole in Hadrian's Wall,Okoboji Brewing Company,"Spirit Lake, IA",Scottish Ale,16 oz.,9.50%,19
+856,The Lawn Ranger,Cedar Creek Brewery,"Seven Points, TX",Cream Ale,16 oz.,5%,18
+857,The One They Call Zoe,Hops & Grain Brewery,"Austin, TX",American Pale Lager,12 oz.,5.10%,N/A
+858,The Public,DC Brau Brewing Company,"Washington, DC",American Pale Ale (APA),12 oz.,6%,N/A
+859,The Velvet Fog,Sun King Brewing Company,"Indianapolis, IN",Quadrupel (Quad),16 oz. Alumi-Tekå¨,9%,24
+860,Third Eye Pale Ale,Steamworks Brewing Company,"Durango, CO",American IPA,12 oz.,6.50%,65
+861,This Season's Blonde,Aspen Brewing Company,"Aspen, CO",American Blonde Ale,12 oz.,5.60%,27
+862,THP Amber (2006),Cans Bar and Canteen,"Charlotte, NC",American Amber / Red Ale,12 oz.,???,N/A
+863,THP Dark (2006),Cans Bar and Canteen,"Charlotte, NC",English Dark Mild Ale,12 oz.,???,N/A
+864,THP Light (2006),Cans Bar and Canteen,"Charlotte, NC",American Blonde Ale,12 oz.,???,N/A
+865,THP White (2006),Cans Bar and Canteen,"Charlotte, NC",Witbier,12 oz.,???,N/A
+866,Threadless IPA,Finch's Beer Company,"Chicago, IL",American IPA,16 oz.,7.50%,N/A
+867,Three Kings Ale,Stevens Point Brewery,"Stevens Point, WI",KÌ¦lsch,12 oz.,4.90%,13
+868,Tin Roof Blonde Ale,Tin Roof Brewing Company,"Baton Rouge, LA",American Blonde Ale,12 oz.,4.50%,18
+869,Toasted Lager,Blue Point Brewing Company,"Patchogue, NY",Vienna Lager,12 oz.,5.50%,28
+870,Tocobaga Red Ale,Cigar City Brewing Company,"Tampa, FL",American Amber / Red Ale,12 oz.,7.20%,75
+871,Tommyknocker Ornery Amber Lager (2003),Tommyknocker Brewery,"Idaho Springs, CO",Vienna Lager,12 oz.,5.50%,33
+872,Tonganoxie Honey Wheat,High Noon Saloon And Brewery,"Leavenworth, KS",American Pale Wheat Ale,12 oz.,4.40%,22
+873,Top Cutter India Pale Ale,Bale Breaker Brewing Company,"Moxee, WA",American IPA,12 oz.,6.80%,70
+874,Top Rope Mexican-style Craft Lager,Upslope Brewing Company,"Boulder, CO",Vienna Lager,12 oz.,4.80%,15
+875,Torpedo,Sierra Nevada Brewing Company,"Chico, CA",American IPA,16 oz.,7.20%,65
+876,Tour de Nez Belgian IPA (Current),Buckbean Brewing Company,"Reno, NV",Belgian IPA,16 oz.,8%,N/A
+877,Toxic Sludge,Blue Point Brewing Company,"Patchogue, NY",American Black Ale,16 oz.,7%,N/A
+878,Trailhead India Style Session Ale,Two Beers Brewing Company,"Seattle, WA",American IPA,12 oz.,4.80%,48
+879,Trebuchet Double IPA,Brewery Vivant,"Grand Rapids, MI",Belgian IPA,16 oz.,9.70%,N/A
+880,Triangle Belgian Golden Ale,Triangle Brewing Company,"Durham, NC",Belgian Strong Pale Ale,12 oz.,8%,N/A
+881,Triangle India Pale Ale,Triangle Brewing Company,"Durham, NC",American IPA,12 oz.,5.70%,N/A
+882,Triangle White Ale,Triangle Brewing Company,"Durham, NC",Witbier,12 oz.,5%,N/A
+883,Trigger Blonde Ale,Crabtree Brewing Company,"Greeley, CO",American Blonde Ale,16 oz.,4.80%,N/A
+884,Triomphe,Brewery Vivant,"Grand Rapids, MI",Belgian IPA,16 oz.,6.50%,N/A
+885,True Blonde Ale,Ska Brewing Company,"Durango, CO",American Blonde Ale,12 oz.,5.30%,N/A
+886,Tule Duck Red Ale (Current),Buckbean Brewing Company,"Reno, NV",American Amber / Red Ale,16 oz.,6.20%,42
+887,Tumbleweed IPA,Lewis and Clark Brewing Company,"Helena, MT",American IPA,12 oz.,5.70%,N/A
+888,Twister Creek India Pale Ale,Denali Brewing Company,"Talkeetna, AK",American IPA,12 oz.,6.50%,71
+889,U.S. Pale Ale,Capital Brewery,"Middleton, WI",American Pale Ale (APA),12 oz.,5%,N/A
+890,UFO White,Harpoon Brewery,"Boston, MA",American Pale Wheat Ale,12 oz.,4.80%,10
+891,Underachiever,Engine House 9,"Tacoma, WA",American Adjunct Lager,16 oz.,5%,N/A
+892,Underdog Atlantic Lager,Flying Dog Brewery,"Frederick, MD",American Pale Lager,12 oz.,4.70%,28
+893,Undun Blonde Ale,Natian Brewery,"Portland, OR",American Blonde Ale,16 oz.,5.30%,N/A
+894,Union Street IPA,Doylestown Brewing Company,"Doylestown, PA",American IPA,12 oz.,???,N/A
+895,Universale Pale Ale,Fremont Brewing Company,"Seattle, WA",American Pale Ale (APA),12 oz.,5.60%,30
+896,Up River Light,Mudshark Brewing Company,"Lake Havasu City, AZ",Light Lager,12 oz.,4.20%,N/A
+897,Upslope Belgian Style Pale Ale,Upslope Brewing Company,"Boulder, CO",Belgian Pale Ale,12 oz.,7.50%,N/A
+898,Upslope Brown Ale,Upslope Brewing Company,"Boulder, CO",English Brown Ale,12 oz.,6.70%,N/A
+899,Upslope Christmas Ale,Upslope Brewing Company,"Boulder, CO",Winter Warmer,16 oz.,8.20%,N/A
+900,Upslope Craft Lager,Upslope Brewing Company,"Boulder, CO",Vienna Lager,12 oz.,4.80%,22
+901,Upslope Foreign Style Stout,Upslope Brewing Company,"Boulder, CO",Foreign / Export Stout,12 oz.,6.90%,N/A
+902,Upslope India Pale Ale,Upslope Brewing Company,"Boulder, CO",American IPA,12 oz.,7.20%,N/A
+903,Upslope Pale Ale,Upslope Brewing Company,"Boulder, CO",American Pale Ale (APA),12 oz.,5.80%,N/A
+904,Upslope Pumpkin Ale,Upslope Brewing Company,"Boulder, CO",Pumpkin Ale,16 oz.,7.70%,N/A
+905,Urban Wilderness Pale Ale,Sleeping Lady Brewing Company,"Anchorage, AK",English Pale Ale,12 oz.,4.90%,N/A
+906,Vanilla Bean Buffalo Sweat,Tallgrass Brewing Company,"Manhattan, KS",Oatmeal Stout,16 oz.,5%,N/A
+907,Velvet Rooster,Tallgrass Brewing Company,"Manhattan, KS",Tripel,16 oz.,8.50%,N/A
+908,Very Noddy Lager (Current),Buckbean Brewing Company,"Reno, NV",Schwarzbier,16 oz.,10.50%,N/A
+909,Vienna Lager,Revolution Brewing,"Paonia, CO",Vienna Lager,16 oz.,4.60%,N/A
+910,Viennese Lager,Bohemian Brewery,"Midvale, UT",Vienna Lager,12 oz.,5%,N/A
+911,Vivant Belgian Style Imperial Stout,Brewery Vivant,"Grand Rapids, MI",Russian Imperial Stout,16 oz.,10%,N/A
+912,Vivant Tripel,Brewery Vivant,"Grand Rapids, MI",Tripel,16 oz.,9.20%,N/A
+913,Voodoo Bengal Pale Ale,Tin Roof Brewing Company,"Baton Rouge, LA",American Pale Ale (APA),12 oz.,5.50%,37
+914,Vortex IPA,Fort George Brewery,"Astoria, OR",American IPA,16 oz.,7.40%,97
+915,Wachusett Blueberry Ale,Wachusett Brewing Company,"Westminster, MA",Fruit / Vegetable Beer,12 oz.,4.50%,10
+916,Wachusett Summer,Wachusett Brewing Company,"Westminster, MA",American Pale Wheat Ale,12 oz.,4.70%,N/A
+917,Walloon,Southern Star Brewing Company,"Conroe, TX",Saison / Farmhouse Ale,12 oz.,5.50%,N/A
+918,Walter's Premium Pilsener Beer,Northwoods Brewpub,"Eau Claire, WI",German Pilsener,12 oz.,4.50%,N/A
+919,Wapiti Amber Ale,Mogollon Brewing Company,"Flagstaff, AZ",American Amber / Red Ale,12 oz.,5%,N/A
+920,Washita Wheat,Mustang Brewing Company,"Mustang, OK",American Pale Wheat Ale,12 oz.,5.30%,14
+921,Watershed IPA,Oakshire Brewing,"Eugene, OR",American IPA,12 oz.,6.70%,70
+922,Watership Brown Ale,Red Hare Brewing Company,"Marietta, GA",American Brown Ale,12 oz.,7.20%,55
+923,Wee Mac Scottish-Style Ale,Sun King Brewing Company,"Indianapolis, IN",Scottish Ale,16 oz.,5.40%,23
+924,Wee Muckle,Sun King Brewing Company,"Indianapolis, IN",Scotch Ale / Wee Heavy,16 oz.,9%,30
+925,Weisse Versa,Karbach Brewing Company,"Houston, TX",Hefeweizen,12 oz.,5.20%,15
+926,West Sixth Amber Ale,West Sixth Brewing,"Lexington, KY",American Amber / Red Ale,12 oz.,5.50%,N/A
+927,West Sixth IPA,West Sixth Brewing,"Lexington, KY",American IPA,12 oz.,???,N/A
+928,Westbrook IPA,Westbrook Brewing Company,"Mt. Pleasant, SC",American IPA,12 oz.,6.80%,65
+929,WET,Surly Brewing Company,"Brooklyn Center, MN",American IPA,16 oz.,7.50%,90
+930,Whale's Tale Pale Ale,Cisco Brewers,"Nantucket, MA",English Pale Ale,12 oz.,5.60%,N/A
+931,Wheat the People,Coalition Brewing Company,"Portland, OR",American Pale Wheat Ale,16 oz.,4.40%,13
+932,White Ale,New South Brewing Company,"Myrtle Beach, SC",Witbier,12 oz.,4.60%,N/A
+933,White Rascal,Avery Brewing Company,"Boulder, CO",Witbier,12 oz.,5.60%,10
+934,White Thai,Westbrook Brewing Company,"Mt. Pleasant, SC",Witbier,12 oz.,5%,16
+935,White Water Wheat,Grand Canyon Brewing Company,"Williams, AZ",American Pale Wheat Ale,12 oz.,5%,N/A
+936,White Zombie Ale,Catawba Valley Brewing Company,"Morganton, NC",Witbier,12 oz.,???,N/A
+937,Whitsun,Arcadia Brewing Company,"Battle Creek, MI",American Pale Wheat Ale,12 oz.,6.20%,17
+938,Widespread Wit,Great River Brewery,"Davenport, IA",Witbier,16 oz.,5.50%,10
+939,Widow Maker Black Ale,Keweenaw Brewing Company,"Houghton, MI",American Brown Ale,12 oz.,???,N/A
+940,Wild Onion Pumpkin Ale,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",Pumpkin Ale,12 oz.,4.50%,N/A
+941,Wild Onion Summer Wit,The Wild Onion Brewing Company/T...,"Lake Barrington, IL",Witbier,12 oz.,4.20%,N/A
+942,Wind River Blonde Ale,Wind River Brewing Company,"Pinedale, WY",American Blonde Ale,16 oz.,5%,N/A
+943,Winter Solstice,Anderson Valley Brewing Company,"Boonville, CA",Winter Warmer,12 oz.,6.90%,6
+944,Winterfest,Sockeye Brewing Company,"Boise, ID",American Strong Ale,16 oz.,8.40%,90
+945,WinterWonderGrass Festival Ale,Crazy Mountain Brewing Company,"Edwards, CO",American Amber / Red Ale,12 oz.,???,N/A
+946,Wisco Disco,Stillmank Beer Company,"Green Bay, WI",American Amber / Red Ale,16 oz.,5.10%,31
+947,Wisconsin Amber,Capital Brewery,"Middleton, WI",Vienna Lager,12 oz.,5.20%,N/A
+948,Wisconsin Amber (1998),Capital Brewery,"Middleton, WI",Vienna Lager,12 oz.,5.20%,N/A
+949,Wolf Among Weeds IPA,Golden Road Brewing,"Los Angeles, CA",American IPA,16 oz.,8%,70
+950,Wood Splitter Pilsner,Bonfire Brewing Company,"Eagle, CO",Czech Pilsener,12 oz.,4.80%,N/A
+951,Woodchuck Amber Hard Cider,Woodchuck Hard Cider,"Middlebury, VT",Cider,12 oz.,5%,N/A
+952,Woolybugger Wheat,Sockeye Brewing Company,"Boise, ID",American Pale Wheat Ale,12 oz.,4.60%,12
+953,Workers Comp Saison,Two Roads Brewing Company,"Stratford, CT",Saison / Farmhouse Ale,12 oz.,4.80%,N/A
+954,WYLD Extra Pale Ale,Uinta Brewing Company,"Salt Lake City, UT",American Pale Ale (APA),12 oz.,4%,29
+955,Wynkoop Pumpkin Ale,Wynkoop Brewing Company,"Denver, CO",Pumpkin Ale,12 oz.,5.50%,N/A
+956,Wyoming Pale Ale,Wind River Brewing Company,"Pinedale, WY",American Pale Ale (APA),16 oz.,7.20%,N/A
+957,Yellowstone Golden Ale,Lewis and Clark Brewing Company,"Helena, MT",KÌ¦lsch,12 oz.,5.10%,N/A
+958,Zaison,Brewery Vivant,"Grand Rapids, MI",Saison / Farmhouse Ale,16 oz.,9%,N/A
+959,Zonker Stout,Snake River Brewing Company,"Jackson, WY",Foreign / Export Stout,12 oz.,5.40%,36
