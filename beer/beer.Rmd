@@ -1,7 +1,7 @@
 ---
 title: "Beer!"
 author: "Jasmine Dumas"
-date: "December 12, 2015"
+date: "December 14, 2015"
 output: word_document
 ---
 1. **Data source**:
@@ -35,12 +35,12 @@ cor(beer$score.overall, beer$score.by.style)
 
 # what do these variables all look like against the response y variable
 library(ggplot2)
-a=ggplot(beer, aes(y = score.overall, x = abv)) + geom_point() # log?
-b=ggplot(beer, aes(y = score.overall, x = ratings)) + geom_point() # log?
-c=ggplot(beer, aes(y = score.overall, x = score.by.style)) + geom_point() # weird-linear?
+ggplot(beer, aes(y = score.overall, x = abv)) + geom_point() # log?
+ggplot(beer, aes(y = score.overall, x = ratings)) + geom_point() # log?
+ggplot(beer, aes(y = score.overall, x = score.by.style)) + geom_point() # weird-linear?
 # these graphs look weird maybe try inverse or logrithm scale and re-graph?
-source('~/Desktop/depaul/CSC423/multiplot.R', echo=TRUE)
-multiplot(a, b, c, cols=3)
+#source('~/Desktop/depaul/CSC423/multiplot.R', echo=TRUE)
+#multiplot(a, b, c, cols=1)
 ```
 
 8. **Building the model(s)**: The initial model has a high F-Statistic, significant p-value, and High R-squared/adj R-squared value which could be improved upon my removing the variable of brewer, which has many not significant p-values. 
@@ -78,19 +78,41 @@ full.beer = step(beer.model3, direction="both")
 
 11. **Checking for higher order models:** As noticed in the scatter plots, there are some intriguing distributions of the co-variates against the response variable, y. Slight curves could signal a second order model or a different transformation.
 
-12. **Examination of residuals:** The residual plot takes a look at the observed values versus the predicted values from the final model. (Residual = Observed – Predicted; or `e = y - y-hat`). There doesn't seem to be an extreme obvious trend in the dispersion of the plot.
+12. **Examination of residuals:** The residual plot takes a look at the observed values versus the predicted values from the final model. (Residual = Observed – Predicted; or `e = y - y-hat`). There doesn't seem to be an extreme obvious trend in the dispersion of the plot, but it can be observed a slight curve possibly signaling a transformation is needed to improve the residuals.
 ```{r}
-plot(beer$score.overall, resid(beer.model3), main = "Final Model Residual Plot - beer.model3")
+qplot(beer$score.overall, resid(beer.model3), geom="point") + labs(title="Final Model Residual Plot - beer.model3")
 ```
 
-13. **Transformations if appropriate:** Check for distributions of co-variates in histograms/plots.
+13. **Transformations:** After performing both log and inverse transformations of the response variable, the original `beer.model3` seems to be the most effective and has the highest R-squared value among the others.
 ```{r}
-hist(beer$abv)
-plot(beer$brewer)
-plot(beer$style)
-hist(beer$ratings)
-hist(beer$score.overall)
-hist(beer$score.by.style)
+## log transformations of the y
+score.overall = beer$score.overall
+score.by.style = beer$score.by.style
+style = beer$style
+
+log.y = log(score.overall)
+# http://stackoverflow.com/questions/8415778/lm-na-nan-inf-error
+log.y[which(!is.finite(log.y))] = NA
+
+beer.model4 = lm(log.y ~ score.by.style + style) 
+summary(beer.model4) # less significant results / lower R-squared values
+# to avoid getting a plot of differing lengths error i popped off the first row just in order to see
+# the plot. This is an artifact from the previous -Inf error. Still a valid residual plot
+qplot(log.y[-1], resid(beer.model4), geom="point") + labs(title="Final Model Residual Plot - beer.model4")
+
+
+## inverse transformtions of the y
+inv.y = 1 / score.overall
+# http://stackoverflow.com/questions/8415778/lm-na-nan-inf-error
+inv.y[which(!is.finite(inv.y))] = NA
+
+beer.model5 = lm(inv.y ~ score.by.style + style) 
+summary(beer.model5) # even less significant results than log / lower R-squared values
+# to avoid getting a plot of differing lengths error i popped off the first row just in order to see
+# the plot. This is an artifact from the previous -Inf error. Still a valid residual plot
+qplot(inv.y[-1], resid(beer.model5), geom="point") + labs(title="Final Model Residual Plot - beer.model5")
 ```
 
+
+14. **Conclusions:** The final model of y = $\beta_{0}$ + $\beta_{1}$ score.by.style + $\beta_{2}$ style seems to be with some degree of confidence a good predictor of the response y variable of overall score for this data set. For a more particular model it would have been nice to have additional attributes of the beer such as ingredients. 
 
