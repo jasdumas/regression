@@ -1,0 +1,18 @@
+{
+    "contents" : "# kaggle AirBnb competition\n# research question: Where will a new guest book their first travel experience?\n# Data Source: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data\n\n# Data Content: list of users along with their demographics, \n#    web session records, and some summary statistics. You are asked to predict\n#    which country a new user's first booking destination will be. All the users\n#    in this dataset are from the USA.\n\n# Response y (country_destination): There are 12 possible outcomes of the destination country: \n# 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'.\n# Please note that 'NDF' is different from 'other' because 'other' means there was a booking, \n# but is to a country not included in the list, while 'NDF' means there wasn't a booking.\n\n# load libraries\nlibrary(dplyr)\nlibrary(nnet)\nlibrary(ggplot2)\nlibrary(foreign)\nlibrary(reshape2)\n\n# switch working directory\nsetwd(\"/Users/jasminedumas/Desktop/regression/airbnb-kaggle\")\n\n# load the data\ntrain_users <- read.csv(\"train_users_2.csv\", stringsAsFactors = F)\nstr(train_users)\n\n# remove NA's from data as required from some LM algos\ntrain_users <- na.omit(train_users)\n\n# load seesions data about what the users are doing on the site\nsessions <- read.csv(\"sessions.csv\", stringsAsFactors = F)\nstr(sessions)\n\n# remove NA's from data as required from some LM algos\nsessions <- na.omit(sessions)\n\n# Multinomial Logistic Regression example: http://www.ats.ucla.edu/stat/r/dae/mlogit.htm\n# relevel our response variable with a base of \"other\"\ntrain_users$country_destination_2 <- relevel(factor(train_users$country_destination), ref = \"other\")\n\ntu_model <- multinom(country_destination_2 ~ id + gender + age + signup_method + signup_flow + \n                       language + affiliate_channel + affiliate_provider + signup_app + \n                       first_device_type + first_browser , data = train_users)\nsummary(tu_model)\n\n\n",
+    "created" : 1450016522430.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "14386764",
+    "id" : "271F915",
+    "lastKnownWriteTime" : 1450019323,
+    "path" : "~/Desktop/depaul/CSC423/airbnb.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
