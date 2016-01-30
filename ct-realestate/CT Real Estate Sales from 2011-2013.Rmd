@@ -1,0 +1,114 @@
+---
+title: "CT Real Estate Sales from 2011-2013"
+author: "Jasmine Dumas"
+date: "January 30, 2016"
+output: html_document
+runtime: shiny
+---
+
+_____________________________
+
+Go to Section:                 
+1. [Data Source](#data-source)           
+2. [Data Pre-processing](#data-pre-processing)              
+3. [Pattern Discovery](#pattern-discovery)                  
+4. [Shiny App](#shiny-app)
+
+_____________________________
+
+### Data Source
+
+<https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-By-Town-for-2011-2012-2013/8udc-aepg>
+
+_Summary:_ The Office of Policy and Management maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. For each sale record, the file includes: town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment.
+```{r}
+library(RSocrata)
+url = "https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-By-Town-for-2011-2012-2013/8udc-aepg"
+real_estate <- read.socrata(url)
+save(real_estate, file = "real_estate.RData")
+str(real_estate)
+```
+
+### Data Pre-processing
+```{r}
+# remove $ punctuation
+real_estate$AssessedValue <- gsub("^[[:punct:]]", "", real_estate$AssessedValue)
+real_estate$SalePrice <- gsub("^[[:punct:]]", "", real_estate$SalePrice)
+# change columns AssessedValue and SalePrice from chr to numeric
+real_estate$AssessedValue2 <- as.numeric(real_estate$AssessedValue)
+real_estate$SalePrice2 <- as.numeric(real_estate$SalePrice)
+```
+
+### Pattern Discovery               
+
+_Summary:_ Data Mining is the extraction of interesting (non-trivial, implicit, hidden, previously unknown, and potentially useful) patterns from huge amounts of data. Pattern Discovery is a functional step in the KDD process which includes Supervised Learning and Unsupervised Learning. Supervised Learning is when the labels about the independent response variable are known in a training data-set. Prediction is when the labels are continuous, such as the SalePrice of real estate. Unsupervised Learning means that the labels are unknown and it is the goal to cluster values by commonalities in means.
+
+_Prediction:_ It is favorable to see a moderately high correlation between the independent and dependent variable of interest. My assumption is that the assessed value will be a good predictor of sale price within this data-set. There is also an assumption that towns, `Name` variable will have a great indication of assessed & sale price which is due to the varying amounts of affluence in Connecticut. A seen in the `fit` model some of the _significant_ `Name` dummy variables are some of the most wealthy towns in [Connecticut](https://en.wikipedia.org/wiki/List_of_Connecticut_locations_by_per_capita_income) and the [US](http://time.com/100987/richest-towns/) - So its not specifically associated with town name but with the makeup of the town residents (and assets) that really affect real estate prices in Connecticut. This also goes to underscore the housing market and its revival from the recent recession.
+```{r}
+# correlations
+cor(real_estate$SalePrice2, real_estate$AssessedValue2) # moderate-high value
+
+# scatterplot 
+library(ggplot2)
+s <- ggplot(real_estate, aes(x = AssessedValue2, y = SalePrice2)) + 
+            geom_point(aes(color = factor(ListYear), size = SalePrice2))
+s # observable positive correlation
+
+# Linear Model Building
+fit = lm(SalePrice2 ~ AssessedValue2 + Name, data = real_estate)
+summary(fit) # low p-values for the overall model and coeffcients
+# the model could definelty be improved with other factors not in this data-set
+```
+
+_________________________
+
+### Shiny App
+
+_Clustering (k-means):_ This shiny app helps to visually identify clusters within the data-set that could be used to identify unique groups of real estate from historical records that could be easily used to predict current sale prices applicable for both sellers and buyers.
+```{r, echo = FALSE}
+library(shiny)
+shinyApp(
+  ui = pageWithSidebar(
+  headerPanel('CT Real Estate k-means clustering'),
+  sidebarPanel(
+    selectInput('xcol', 'X Variable', names(real_estate), selected = "AssessedValue2"),
+    selectInput('ycol', 'Y Variable', names(real_estate),
+                selected="SalePrice2"),
+    numericInput('clusters', 'Cluster count', 3,
+                 min = 1, max = 9)
+  ),
+  mainPanel(
+    plotOutput('plot1')
+  )
+), 
+
+palette(c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3",
+  "#FF7F00", "#FFFF33", "#A65628", "#F781BF", "#999999")), 
+
+server = function(input, output, session) {
+
+  # Combine the selected variables into a new data frame
+  selectedData <- reactive({
+    real_estate[, c(input$xcol, input$ycol)]
+  })
+
+  clusters <- reactive({
+    kmeans(selectedData(), input$clusters)
+  })
+
+  output$plot1 <- renderPlot({
+    par(mar = c(5.1, 4.1, 0, 1))
+    plot(selectedData(),
+         col = clusters()$cluster,
+         pch = 20, cex = 3)
+    points(clusters()$centers, pch = 4, cex = 4, lwd = 4)
+  })
+
+}, 
+
+options = list(height = 500)
+  
+)
+
+```
+
