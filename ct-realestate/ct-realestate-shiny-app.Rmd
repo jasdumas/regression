@@ -1,0 +1,74 @@
+---
+title: "CT Real Estate - Shiny App"
+author: "Jasmine Dumas"
+date: "February 1, 2016"
+output: html_document
+runtime: shiny
+---
+
+### Shiny App
+
+_Clustering (k-means):_ This shiny app helps to visually identify clusters within the data-set that could be used to identify unique groups of real estate from historical records that could be easily used to predict current sale prices applicable for both sellers and buyers.
+
+```{r}
+# Source
+library(RSocrata)
+url = "https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-By-Town-for-2011-2012-2013/8udc-aepg"
+real_estate <- read.socrata(url)
+save(real_estate, file = "real_estate.RData")
+str(real_estate)
+# remove $ punctuation
+real_estate$AssessedValue <- gsub("^[[:punct:]]", "", real_estate$AssessedValue)
+real_estate$SalePrice <- gsub("^[[:punct:]]", "", real_estate$SalePrice)
+# change columns AssessedValue and SalePrice from chr to numeric
+real_estate$AssessedValue2 <- as.numeric(real_estate$AssessedValue)
+real_estate$SalePrice2 <- as.numeric(real_estate$SalePrice)
+```
+
+
+```{r, echo = FALSE}
+library(shiny)
+shinyApp(
+  ui = pageWithSidebar(
+  headerPanel('CT Real Estate k-means clustering'),
+  sidebarPanel(
+    selectInput('xcol', 'X Variable', names(real_estate), selected = "AssessedValue2"),
+    selectInput('ycol', 'Y Variable', names(real_estate),
+                selected="SalePrice2"),
+    numericInput('clusters', 'Cluster count', 3,
+                 min = 1, max = 9)
+  ),
+  mainPanel(
+    plotOutput('plot1')
+  )
+), 
+
+palette(c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3",
+  "#FF7F00", "#FFFF33", "#A65628", "#F781BF", "#999999")), 
+
+server = function(input, output, session) {
+
+  # Combine the selected variables into a new data frame
+  selectedData <- reactive({
+    real_estate[, c(input$xcol, input$ycol)]
+  })
+
+  clusters <- reactive({
+    kmeans(selectedData(), input$clusters)
+  })
+
+  output$plot1 <- renderPlot({
+    par(mar = c(5.1, 4.1, 0, 1))
+    plot(selectedData(),
+         col = clusters()$cluster,
+         pch = 20, cex = 3)
+    points(clusters()$centers, pch = 4, cex = 4, lwd = 4)
+  })
+
+}, 
+
+options = list(height = 500)
+  
+)
+```
+
