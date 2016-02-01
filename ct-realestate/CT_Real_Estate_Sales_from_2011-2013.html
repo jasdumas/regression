@@ -10,7 +10,6 @@
 
 <meta name="author" content="Jasmine Dumas" />
 
-<meta name="date" content="2016-01-30" />
 
 <title>CT Real Estate Sales from 2011-2013</title>
 
@@ -64,12 +63,12 @@ img {
 <div id="header">
 <h1 class="title">CT Real Estate Sales from 2011-2013</h1>
 <h4 class="author"><em>Jasmine Dumas</em></h4>
-<h4 class="date"><em>January 30, 2016</em></h4>
+<h4 class="date"><em>February 1, 2016</em></h4>
 </div>
 
 
 <hr />
-<p>Go to Section:<br />1. <a href="#data-source">Data Source</a><br />2. <a href="#data-pre-processing">Data Pre-processing</a><br />3. <a href="#pattern-discovery">Pattern Discovery</a><br />4. <a href="#shiny-app">Shiny App</a></p>
+<p>Go to Section:<br />1. <a href="#data-source">Data Source</a><br />2. <a href="#data-pre-processing">Data Pre-processing</a><br />3. <a href="#pattern-discovery">Pattern Discovery</a><br />4. <a href="https://github.com/jasdumas/regression/blob/master/ct-realestate/ct-realestate-shiny-app.Rmd">Shiny App</a></p>
 <hr />
 <div id="data-source" class="section level3">
 <h3>Data Source</h3>
@@ -307,11 +306,6 @@ summary(fit) # low p-values for the overall model and coeffcients</code></pre>
 ## Multiple R-squared:  0.1969, Adjusted R-squared:  0.1956 
 ## F-statistic: 154.9 on 169 and 106811 DF,  p-value: &lt; 2.2e-16</code></pre>
 <pre class="r"><code># the model could definelty be improved with other factors not in this data-set</code></pre>
-<hr />
-</div>
-<div id="shiny-app" class="section level3">
-<h3>Shiny App</h3>
-<p><em>Clustering (k-means):</em> This shiny app helps to visually identify clusters within the data-set that could be used to identify unique groups of real estate from historical records that could be easily used to predict current sale prices applicable for both sellers and buyers. <iframe data-deferred-src="app89961e06a3f48aedcec33158833a0dce/?w=&amp;__subapp__=1" width="100%" height="500" class="shiny-frame shiny-frame-deferred"></iframe></p>
 </div>
 
 
