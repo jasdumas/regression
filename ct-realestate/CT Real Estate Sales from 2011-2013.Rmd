@@ -1,9 +1,8 @@
 ---
 title: "CT Real Estate Sales from 2011-2013"
 author: "Jasmine Dumas"
-date: "January 30, 2016"
+date: "February 1, 2016"
 output: html_document
-runtime: shiny
 ---
 
 _____________________________
@@ -12,7 +11,7 @@ Go to Section:
 1. [Data Source](#data-source)           
 2. [Data Pre-processing](#data-pre-processing)              
 3. [Pattern Discovery](#pattern-discovery)                  
-4. [Shiny App](#shiny-app)
+4. [Shiny App](https://github.com/jasdumas/regression/blob/master/ct-realestate/ct-realestate-shiny-app.Rmd)
 
 _____________________________
 
@@ -59,56 +58,3 @@ fit = lm(SalePrice2 ~ AssessedValue2 + Name, data = real_estate)
 summary(fit) # low p-values for the overall model and coeffcients
 # the model could definelty be improved with other factors not in this data-set
 ```
-
-_________________________
-
-### Shiny App
-
-_Clustering (k-means):_ This shiny app helps to visually identify clusters within the data-set that could be used to identify unique groups of real estate from historical records that could be easily used to predict current sale prices applicable for both sellers and buyers.
-```{r, echo = FALSE}
-library(shiny)
-shinyApp(
-  ui = pageWithSidebar(
-  headerPanel('CT Real Estate k-means clustering'),
-  sidebarPanel(
-    selectInput('xcol', 'X Variable', names(real_estate), selected = "AssessedValue2"),
-    selectInput('ycol', 'Y Variable', names(real_estate),
-                selected="SalePrice2"),
-    numericInput('clusters', 'Cluster count', 3,
-                 min = 1, max = 9)
-  ),
-  mainPanel(
-    plotOutput('plot1')
-  )
-), 
-
-palette(c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3",
-  "#FF7F00", "#FFFF33", "#A65628", "#F781BF", "#999999")), 
-
-server = function(input, output, session) {
-
-  # Combine the selected variables into a new data frame
-  selectedData <- reactive({
-    real_estate[, c(input$xcol, input$ycol)]
-  })
-
-  clusters <- reactive({
-    kmeans(selectedData(), input$clusters)
-  })
-
-  output$plot1 <- renderPlot({
-    par(mar = c(5.1, 4.1, 0, 1))
-    plot(selectedData(),
-         col = clusters()$cluster,
-         pch = 20, cex = 3)
-    points(clusters()$centers, pch = 4, cex = 4, lwd = 4)
-  })
-
-}, 
-
-options = list(height = 500)
-  
-)
-
-```
-
